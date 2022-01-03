@@ -1,0 +1,955 @@
+# Pathway	DSS_treatedp_Abundance
+UNMAPPED	11649594.1631458402
+UNINTEGRATED	3809013.1918675448
+UNINTEGRATED|unclassified	2367074.8152875956
+UNINTEGRATED|g__Helicobacter.s__Helicobacter_typhlonius	218785.4632636010
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_sartorii	154553.7126353505
+UNINTEGRATED|g__Prevotella.s__Prevotella_sp_MGM2	141641.8766858946
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_caecimuris	114501.3805023346
+UNINTEGRATED|g__Muribaculum.s__Muribaculum_intestinale	85358.4285149345
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_uniformis	82429.8071968641
+UNINTEGRATED|g__Parabacteroides.s__Parabacteroides_distasonis	55574.5524892156
+UNINTEGRATED|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	46701.6460907255
+UNINTEGRATED|g__Mucispirillum.s__Mucispirillum_schaedleri	37779.3400853179
+UNINTEGRATED|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	35440.8439092360
+UNINTEGRATED|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_10_1	30845.2758262132
+UNINTEGRATED|g__Clostridium.s__Clostridium_sp_ASF502	21687.5809335659
+UNINTEGRATED|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	21607.1096555782
+UNINTEGRATED|g__Alistipes.s__Alistipes_timonensis	15208.0496291377
+UNINTEGRATED|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	12479.2985648825
+UNINTEGRATED|g__Romboutsia.s__Romboutsia_ilealis	10029.9476767069
+UNINTEGRATED|g__Acetatifactor.s__Acetatifactor_muris	8418.3959335192
+UNINTEGRATED|g__Helicobacter.s__Helicobacter_ganmani	2020.7147627752
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_uniformis_CAG_3	1251.3431450259
+PWY-1042: glycolysis IV (plant cytosol)	3694.1918825853
+PWY-1042: glycolysis IV (plant cytosol)|unclassified	2938.2854242121
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_sartorii	173.4146389220
+PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_timonensis	20.5942880857
+PWY-1042: glycolysis IV (plant cytosol)|g__Romboutsia.s__Romboutsia_ilealis	17.2467656107
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	16.3501054982
+TRNA-CHARGING-PWY: tRNA charging	3589.4410663659
+TRNA-CHARGING-PWY: tRNA charging|unclassified	2569.4093344040
+TRNA-CHARGING-PWY: tRNA charging|g__Bacteroides.s__Bacteroides_caecimuris	212.4272253563
+TRNA-CHARGING-PWY: tRNA charging|g__Alistipes.s__Alistipes_timonensis	109.0276539203
+TRNA-CHARGING-PWY: tRNA charging|g__Bacteroides.s__Bacteroides_sartorii	104.6319856002
+TRNA-CHARGING-PWY: tRNA charging|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	32.1617480913
+TRNA-CHARGING-PWY: tRNA charging|g__Parabacteroides.s__Parabacteroides_distasonis	16.5698137880
+TRNA-CHARGING-PWY: tRNA charging|g__Romboutsia.s__Romboutsia_ilealis	13.7422182473
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I	3513.3143092807
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|unclassified	2929.7312650742
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Prevotella.s__Prevotella_sp_MGM2	102.6208955735
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	96.8685173644
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	89.3432645853
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	48.1204576102
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_timonensis	27.2277668913
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	22.6971264827
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	20.0571709314
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	11.5214490684
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	11.4344030711
+PWY-3841: folate transformations II	3486.0360416518
+PWY-3841: folate transformations II|unclassified	2839.7116130290
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_caecimuris	130.2389464573
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_sartorii	98.1782445583
+PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_timonensis	63.3523329233
+PWY-3841: folate transformations II|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	19.0814248404
+PWY-3841: folate transformations II|g__Parabacteroides.s__Parabacteroides_distasonis	16.9514729631
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	3303.3840260502
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|unclassified	2294.7543595765
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	352.6768931763
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	189.3923229968
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	87.4949996344
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	86.0434649646
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	68.7440669462
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_timonensis	30.1079552992
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	23.2879558132
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	21.9496517880
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	18.4231171963
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Romboutsia.s__Romboutsia_ilealis	18.1025371846
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	12.7742988352
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3	2.4671054577
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_uniformis	1.8336011077
+PWY-6123: inosine-5'-phosphate biosynthesis I	3134.8735223943
+PWY-6123: inosine-5'-phosphate biosynthesis I|unclassified	2164.3199965426
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	272.0137165729
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	201.6144242143
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	124.5463711655
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	56.5051607457
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_timonensis	37.6700217617
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	19.7826858441
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Romboutsia.s__Romboutsia_ilealis	18.1494304404
+PWY-5686: UMP biosynthesis	3120.8271643941
+PWY-5686: UMP biosynthesis|unclassified	1854.8179547382
+PWY-5686: UMP biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	253.5086368108
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	208.2171460302
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	88.7137716346
+PWY-5686: UMP biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	62.2986969504
+PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_timonensis	31.5919132701
+PWY-5686: UMP biosynthesis|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	23.6230712665
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	22.5550995087
+PWY-5686: UMP biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	22.4660900148
+PWY-5686: UMP biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	12.4004981807
+PWY-5686: UMP biosynthesis|g__Clostridium.s__Clostridium_sp_ASF502	8.5542204634
+PWY-5686: UMP biosynthesis|g__Romboutsia.s__Romboutsia_ilealis	8.5391295039
+PWY-6124: inosine-5'-phosphate biosynthesis II	3049.9114133248
+PWY-6124: inosine-5'-phosphate biosynthesis II|unclassified	2112.6795919228
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris	253.6389238345
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	195.7490785738
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii	117.0592362500
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Mucispirillum.s__Mucispirillum_schaedleri	60.6958758308
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_timonensis	37.4331732510
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	18.5541009002
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Romboutsia.s__Romboutsia_ilealis	17.6146739771
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Clostridium.s__Clostridium_sp_ASF502	7.2221140106
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	2983.1084775377
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|unclassified	2071.6046138789
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	260.7128512713
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	143.7386207140
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	114.0077900704
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	90.2631377909
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	63.9785762260
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_timonensis	24.0655515084
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	23.6167889200
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	22.1657902774
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	21.7464198445
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Romboutsia.s__Romboutsia_ilealis	10.5596585304
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	2967.5413780889
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|unclassified	1813.5110528224
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	257.8320424970
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris	152.8059271417
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Prevotella.s__Prevotella_sp_MGM2	97.4232895879
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii	91.1110439122
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_timonensis	50.4783844204
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Mucispirillum.s__Mucispirillum_schaedleri	34.0835375942
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	23.0933888169
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	17.3478634753
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	16.3817191669
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis	13.8998523325
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Romboutsia.s__Romboutsia_ilealis	11.4267793514
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.9927738073
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Clostridium.s__Clostridium_sp_ASF502	9.8007843032
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	2967.5413780889
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|unclassified	1813.5110528224
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	257.8320424970
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	152.8059271417
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	97.4232895879
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	91.1110439122
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_timonensis	50.4783844204
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	34.0835375942
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	23.0933888169
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	17.3478634753
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	16.3817191669
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	13.8998523325
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Romboutsia.s__Romboutsia_ilealis	11.4267793514
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.9927738073
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Clostridium.s__Clostridium_sp_ASF502	9.8007843032
+PWY-6700: queuosine biosynthesis	2798.8739308616
+PWY-6700: queuosine biosynthesis|unclassified	2185.3208985503
+PWY-6700: queuosine biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	216.7896108003
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	119.2562732637
+PWY-6700: queuosine biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	117.2460215318
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	71.1389178032
+PWY-6700: queuosine biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	44.0936287207
+PWY-6700: queuosine biosynthesis|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	19.9646683096
+PWY-6700: queuosine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	16.9858477892
+PWY-6700: queuosine biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	14.4814636298
+PWY-6609: adenine and adenosine salvage III	2720.5847315003
+PWY-6609: adenine and adenosine salvage III|unclassified	1353.5672765808
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_caecimuris	221.9687076645
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_sartorii	131.2743418923
+PWY-6609: adenine and adenosine salvage III|g__Alistipes.s__Alistipes_timonensis	31.0162447292
+PWY-6609: adenine and adenosine salvage III|g__Mucispirillum.s__Mucispirillum_schaedleri	28.2131205951
+PWY-6609: adenine and adenosine salvage III|g__Romboutsia.s__Romboutsia_ilealis	24.0541783286
+PWY-6609: adenine and adenosine salvage III|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	21.3464318477
+PWY-6609: adenine and adenosine salvage III|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	14.4351497927
+PWY-6609: adenine and adenosine salvage III|g__Parabacteroides.s__Parabacteroides_distasonis	10.8142909884
+PWY-6609: adenine and adenosine salvage III|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	6.3810007189
+PWY-6609: adenine and adenosine salvage III|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_10_1	3.6642624604
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	2639.4356470787
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|unclassified	1622.4654045478
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Helicobacter.s__Helicobacter_typhlonius	353.5772620228
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bacteroides.s__Bacteroides_caecimuris	152.7406496094
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Mucispirillum.s__Mucispirillum_schaedleri	67.3775576502
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	34.5828340013
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Parabacteroides.s__Parabacteroides_distasonis	15.7427297964
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bacteroides.s__Bacteroides_uniformis	2.7225048480
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	2639.4356470787
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|unclassified	1622.4654045478
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Helicobacter.s__Helicobacter_typhlonius	353.5772620228
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_caecimuris	113.8435318525
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_sartorii	107.4472065063
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Prevotella.s__Prevotella_sp_MGM2	74.0362030747
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Mucispirillum.s__Mucispirillum_schaedleri	59.9985062470
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	42.4157010034
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	28.6408495832
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Alistipes.s__Alistipes_timonensis	21.0468386606
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	15.1460024916
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Helicobacter.s__Helicobacter_ganmani	12.2004079929
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Parabacteroides.s__Parabacteroides_distasonis	11.7641765768
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_sp_ASF502	11.3124023735
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	8.1674053144
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_uniformis	2.6805425417
+VALSYN-PWY: L-valine biosynthesis	2639.4356470787
+VALSYN-PWY: L-valine biosynthesis|unclassified	1622.4654045478
+VALSYN-PWY: L-valine biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	353.5772620228
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	152.7406496094
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	107.4472065063
+VALSYN-PWY: L-valine biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	74.0362030747
+VALSYN-PWY: L-valine biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	67.3775576502
+VALSYN-PWY: L-valine biosynthesis|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	42.4157010034
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	34.5828340013
+VALSYN-PWY: L-valine biosynthesis|g__Alistipes.s__Alistipes_timonensis	21.0468386606
+VALSYN-PWY: L-valine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	15.7427297964
+VALSYN-PWY: L-valine biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	15.1460024916
+VALSYN-PWY: L-valine biosynthesis|g__Clostridium.s__Clostridium_sp_ASF502	9.4031561161
+VALSYN-PWY: L-valine biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	8.1674053144
+VALSYN-PWY: L-valine biosynthesis|g__Acetatifactor.s__Acetatifactor_muris	7.5570552530
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_uniformis	2.7225048480
+PWY-5973: cis-vaccenate biosynthesis	2629.5596250074
+PWY-5973: cis-vaccenate biosynthesis|unclassified	1171.2249274742
+PWY-5973: cis-vaccenate biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	318.7504872541
+PWY-5973: cis-vaccenate biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	176.0758574140
+PWY-5973: cis-vaccenate biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	114.2746202346
+PWY-5973: cis-vaccenate biosynthesis|g__Alistipes.s__Alistipes_timonensis	85.3347482502
+PWY-5973: cis-vaccenate biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	18.8219460713
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I	2617.6968622911
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|unclassified	1789.1429271164
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	289.0597554227
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	126.3557787696
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	72.4530725299
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	19.7021941493
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I	2555.1925828167
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|unclassified	1771.0406409425
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I	2515.4499381472
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|unclassified	1903.7256047444
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	25.8602014176
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II	2472.4163246146
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|unclassified	1683.9687963826
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	221.6521377122
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii	120.1819209734
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Mucispirillum.s__Mucispirillum_schaedleri	66.4543267439
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis	17.8774083328
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	2472.2934153392
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified	1683.6354948905
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	237.2634511947
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	100.7212893474
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	96.5489555688
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_timonensis	38.6471453832
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	23.2995229020
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	17.4854319210
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	16.1887135858
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	14.4254584626
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Romboutsia.s__Romboutsia_ilealis	12.6750791252
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Clostridium.s__Clostridium_sp_ASF502	10.4968227978
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.1915578080
+PWY-7663: gondoate biosynthesis (anaerobic)	2453.2890656431
+PWY-7663: gondoate biosynthesis (anaerobic)|unclassified	1033.7318177010
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Helicobacter.s__Helicobacter_typhlonius	372.9555024831
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Alistipes.s__Alistipes_timonensis	193.2955700525
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bacteroides.s__Bacteroides_caecimuris	155.7401872747
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bacteroides.s__Bacteroides_sartorii	101.1646458676
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Parabacteroides.s__Parabacteroides_distasonis	18.0998624162
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bacteroides.s__Bacteroides_uniformis	1.2112256589
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II	2393.6482263374
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|unclassified	1769.9113688345
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	24.8328509886
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis	2246.4007397442
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|unclassified	1561.0504321489
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	107.0218998178
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	90.9442375237
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Alistipes.s__Alistipes_timonensis	42.7487241074
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	16.5423116533
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II	2226.8190371240
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|unclassified	1633.8892563785
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation	2194.9375131004
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|unclassified	1392.0971126288
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_sartorii	123.1830818029
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_caecimuris	51.0227457541
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_timonensis	42.6555376646
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Mucispirillum.s__Mucispirillum_schaedleri	32.4479235487
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Romboutsia.s__Romboutsia_ilealis	9.9253956662
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Parabacteroides.s__Parabacteroides_distasonis	7.4418090987
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)	2187.4034333446
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified	1633.5745716335
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	2171.1039801623
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|unclassified	1511.6460632788
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)	2150.7352803920
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|unclassified	1365.4933497685
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Helicobacter.s__Helicobacter_typhlonius	219.7227297547
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii	115.5391561916
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_sp_MGM2	103.1193536533
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_caecimuris	53.7403393291
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Mucispirillum.s__Mucispirillum_schaedleri	42.0462068249
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_timonensis	27.9399084530
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	20.6059552859
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Romboutsia.s__Romboutsia_ilealis	19.7437701000
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Parabacteroides.s__Parabacteroides_distasonis	17.0779167141
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	16.2648447469
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	11.2527809163
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	9.9751566959
+GLUCONEO-PWY: gluconeogenesis I	2147.1470944140
+GLUCONEO-PWY: gluconeogenesis I|unclassified	1256.1785914110
+GLUCONEO-PWY: gluconeogenesis I|g__Helicobacter.s__Helicobacter_typhlonius	211.2304062374
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II	2123.5581625886
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|unclassified	1413.1283849898
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	348.3436821712
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris	123.9166074854
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii	110.4332854157
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Mucispirillum.s__Mucispirillum_schaedleri	89.9265713869
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	29.7932991040
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Romboutsia.s__Romboutsia_ilealis	20.2220540200
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis	14.1575665632
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Muribaculum.s__Muribaculum_intestinale	8.9962959037
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II	2123.5581625886
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|unclassified	1413.1283849898
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	348.3436821712
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris	123.9166074854
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii	110.4332854157
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Mucispirillum.s__Mucispirillum_schaedleri	89.9265713869
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	29.7932991040
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Romboutsia.s__Romboutsia_ilealis	20.2220540200
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis	14.1575665632
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Muribaculum.s__Muribaculum_intestinale	8.9962959037
+PWY66-400: glycolysis VI (metazoan)	2087.5165552543
+PWY66-400: glycolysis VI (metazoan)|unclassified	1608.8250706866
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	2041.5064552481
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|unclassified	1271.9039026980
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Helicobacter.s__Helicobacter_typhlonius	217.4433731226
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii	113.0807039359
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_sp_MGM2	102.0022785636
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_caecimuris	54.1851676192
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Mucispirillum.s__Mucispirillum_schaedleri	38.1036127328
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_timonensis	25.5105098010
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	19.9007946440
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Romboutsia.s__Romboutsia_ilealis	19.0288135766
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Parabacteroides.s__Parabacteroides_distasonis	17.3892486477
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	15.5289347088
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	10.9512766744
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.5502663246
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Clostridium.s__Clostridium_sp_ASF502	9.5267132648
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)	2036.1442955750
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified	1574.3508067661
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)	2010.9407103572
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|unclassified	1018.6961625977
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Helicobacter.s__Helicobacter_typhlonius	234.3409374128
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_sartorii	121.1599627694
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Prevotella.s__Prevotella_sp_MGM2	104.2659853372
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_caecimuris	41.8845437670
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_timonensis	25.6833509727
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Romboutsia.s__Romboutsia_ilealis	19.7437701000
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Parabacteroides.s__Parabacteroides_distasonis	16.7726439825
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	12.7398023712
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	9.9751566959
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I	1979.8600151259
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|unclassified	1350.3956890057
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis	1947.6600815883
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|unclassified	1112.1756305425
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	283.2703942757
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	151.9402304210
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	64.5600049992
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	32.5132819179
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	14.3187018906
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bacteroides.s__Bacteroides_uniformis	2.8912194214
+COA-PWY: coenzyme A biosynthesis I	1881.2721649785
+COA-PWY: coenzyme A biosynthesis I|unclassified	1250.0017008168
+COA-PWY: coenzyme A biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	240.0274991857
+COA-PWY: coenzyme A biosynthesis I|g__Prevotella.s__Prevotella_sp_MGM2	95.0348976322
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	91.2040483522
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	73.1611203226
+COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_timonensis	23.5030607538
+COA-PWY: coenzyme A biosynthesis I|g__Romboutsia.s__Romboutsia_ilealis	16.7017532286
+COA-PWY: coenzyme A biosynthesis I|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	16.4688754396
+COA-PWY: coenzyme A biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	14.8941214785
+PWY-2942: L-lysine biosynthesis III	1853.4191738241
+PWY-2942: L-lysine biosynthesis III|unclassified	1254.1309855566
+PWY-2942: L-lysine biosynthesis III|g__Helicobacter.s__Helicobacter_typhlonius	197.6541785537
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_caecimuris	174.7280102751
+PWY-2942: L-lysine biosynthesis III|g__Prevotella.s__Prevotella_sp_MGM2	88.0376897645
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii	85.6415907689
+PWY-2942: L-lysine biosynthesis III|g__Mucispirillum.s__Mucispirillum_schaedleri	45.4978196892
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	33.8670506703
+PWY-2942: L-lysine biosynthesis III|g__Alistipes.s__Alistipes_timonensis	22.1958839234
+PWY-2942: L-lysine biosynthesis III|g__Parabacteroides.s__Parabacteroides_distasonis	15.1074139055
+HISDEG-PWY: L-histidine degradation I	1852.3026897507
+HISDEG-PWY: L-histidine degradation I|unclassified	1660.9417694180
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_sartorii	99.7655050165
+HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_timonensis	28.0355167482
+HISDEG-PWY: L-histidine degradation I|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	24.1754797399
+HISDEG-PWY: L-histidine degradation I|g__Parabacteroides.s__Parabacteroides_distasonis	10.7189206549
+HISDEG-PWY: L-histidine degradation I|g__Romboutsia.s__Romboutsia_ilealis	9.2346720987
+PANTO-PWY: phosphopantothenate biosynthesis I	1794.2362029623
+PANTO-PWY: phosphopantothenate biosynthesis I|unclassified	1041.5497358676
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	196.2034143729
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	160.7746893812
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	110.6413858023
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Prevotella.s__Prevotella_sp_MGM2	86.9744513128
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Alistipes.s__Alistipes_timonensis	43.7658244697
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	24.4520883964
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	19.0353801822
+PWY-5103: L-isoleucine biosynthesis III	1786.3331874572
+PWY-5103: L-isoleucine biosynthesis III|unclassified	1000.4417785854
+PWY-5103: L-isoleucine biosynthesis III|g__Helicobacter.s__Helicobacter_typhlonius	273.6846118455
+PWY-5103: L-isoleucine biosynthesis III|g__Bacteroides.s__Bacteroides_caecimuris	126.4552733243
+PWY-5103: L-isoleucine biosynthesis III|g__Mucispirillum.s__Mucispirillum_schaedleri	62.6186438782
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	29.6836931150
+PWY-5103: L-isoleucine biosynthesis III|g__Parabacteroides.s__Parabacteroides_distasonis	12.2637208056
+PWY-5103: L-isoleucine biosynthesis III|g__Bacteroides.s__Bacteroides_uniformis	2.5933810643
+PWY-5484: glycolysis II (from fructose 6-phosphate)	1756.2100906110
+PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified	1326.4084076584
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	1752.8369071220
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|unclassified	933.1481708414
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Helicobacter.s__Helicobacter_typhlonius	212.2589295682
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_sartorii	111.5353011540
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Prevotella.s__Prevotella_sp_MGM2	85.0922546489
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_caecimuris	42.4332862081
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	25.5329861860
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Romboutsia.s__Romboutsia_ilealis	18.6448921641
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	13.6027959881
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.6216144423
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II	1750.3235460198
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|unclassified	1307.2016617918
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)	1728.3476750130
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|unclassified	1004.2185076316
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Helicobacter.s__Helicobacter_typhlonius	240.0274991857
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_caecimuris	122.2157036253
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_sartorii	103.3617935474
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Prevotella.s__Prevotella_sp_MGM2	90.6952382058
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	31.9815338951
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_timonensis	23.5559277177
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Romboutsia.s__Romboutsia_ilealis	18.0723236201
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	16.3931493302
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	16.0225549003
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)	1724.7188235781
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|unclassified	1000.6045472791
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Helicobacter.s__Helicobacter_typhlonius	279.5205357602
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Mucispirillum.s__Mucispirillum_schaedleri	55.7221541401
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	21.9801492735
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	18.5409245463
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	17.5652693505
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	11.9282041255
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Clostridium.s__Clostridium_sp_ASF502	9.3953152598
+PWY-7208: superpathway of pyrimidine nucleobases salvage	1724.3573350810
+PWY-7208: superpathway of pyrimidine nucleobases salvage|unclassified	1313.4531875814
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Mucispirillum.s__Mucispirillum_schaedleri	70.6159384891
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)	1696.7159696884
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|unclassified	932.1387756561
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Helicobacter.s__Helicobacter_typhlonius	200.9535192931
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Bacteroides.s__Bacteroides_sartorii	109.5116566842
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Bacteroides.s__Bacteroides_caecimuris	83.8832795139
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Parabacteroides.s__Parabacteroides_distasonis	17.6647253075
+PWY-5097: L-lysine biosynthesis VI	1686.1458792420
+PWY-5097: L-lysine biosynthesis VI|unclassified	1096.0709818714
+PWY-5097: L-lysine biosynthesis VI|g__Helicobacter.s__Helicobacter_typhlonius	198.9363854955
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_caecimuris	166.4270829810
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_sartorii	84.7337328706
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	32.9772881590
+PWY-5097: L-lysine biosynthesis VI|g__Alistipes.s__Alistipes_timonensis	22.0622093507
+PWY-5097: L-lysine biosynthesis VI|g__Parabacteroides.s__Parabacteroides_distasonis	19.0962860861
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)	1675.2877664315
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|unclassified	1074.5007860836
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Helicobacter.s__Helicobacter_typhlonius	239.7225261202
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	21.4500182608
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	18.4582087116
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.2521802185
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Clostridium.s__Clostridium_sp_ASF502	9.6729208161
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)	1671.1463495425
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|unclassified	1072.1418798175
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Helicobacter.s__Helicobacter_typhlonius	238.0866772932
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	21.3999736184
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	18.4792803677
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	10.1797637045
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Clostridium.s__Clostridium_sp_ASF502	9.7053451602
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I	1632.3193993154
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|unclassified	831.3955292434
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	218.2645492617
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	108.4019519354
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	101.1344307430
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Prevotella.s__Prevotella_sp_MGM2	90.9116370788
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_timonensis	27.2778664322
+PWY-5667: CDP-diacylglycerol biosynthesis I	1563.8200227465
+PWY-5667: CDP-diacylglycerol biosynthesis I|unclassified	960.6682477842
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	195.4949137687
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	110.5711223596
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	56.6007600558
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	44.3128252607
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	12.3978447828
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	11.8663428833
+PWY0-1319: CDP-diacylglycerol biosynthesis II	1563.8200227465
+PWY0-1319: CDP-diacylglycerol biosynthesis II|unclassified	960.6682477842
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	195.4949137687
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii	110.5711223596
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Mucispirillum.s__Mucispirillum_schaedleri	56.6007600558
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris	44.3128252607
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis	12.3978447828
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	11.8663428833
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)	1561.6025044000
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|unclassified	725.5440192938
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	1539.7417018065
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified	805.2469988206
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Helicobacter.s__Helicobacter_typhlonius	206.4632560678
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_sartorii	111.5477212517
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_caecimuris	59.7281936712
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	23.8033174159
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Parabacteroides.s__Parabacteroides_distasonis	18.0239420151
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Clostridium.s__Clostridium_sp_ASF502	9.2851765288
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis	1502.5410725980
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|unclassified	725.8066867773
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	269.8152909936
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	87.5896374864
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Alistipes.s__Alistipes_timonensis	15.5652985682
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	13.1726927600
+ARO-PWY: chorismate biosynthesis I	1487.7050759329
+ARO-PWY: chorismate biosynthesis I|unclassified	786.9682455794
+ARO-PWY: chorismate biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	212.2564179876
+ARO-PWY: chorismate biosynthesis I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	21.3083347691
+ARO-PWY: chorismate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	16.4206587665
+ARO-PWY: chorismate biosynthesis I|g__Clostridium.s__Clostridium_sp_ASF502	10.9823747591
+PWY-3001: superpathway of L-isoleucine biosynthesis I	1477.7681003154
+PWY-3001: superpathway of L-isoleucine biosynthesis I|unclassified	468.2420499061
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	247.3554746932
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	1436.3454666117
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|unclassified	776.4816017011
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	237.4126495207
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	96.5993761396
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	81.6331589927
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Alistipes.s__Alistipes_timonensis	39.0610495420
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis	1.1145165784
+PWY-4242: pantothenate and coenzyme A biosynthesis III	1428.5971998187
+PWY-4242: pantothenate and coenzyme A biosynthesis III|unclassified	690.5095886716
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Helicobacter.s__Helicobacter_typhlonius	215.5637900804
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii	92.8889685679
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Prevotella.s__Prevotella_sp_MGM2	86.7466149944
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_caecimuris	71.2404021027
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_timonensis	20.2692462470
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Romboutsia.s__Romboutsia_ilealis	14.1025468220
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	11.1134265319
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	10.9542200218
+HSERMETANA-PWY: L-methionine biosynthesis III	1400.9267609921
+HSERMETANA-PWY: L-methionine biosynthesis III|unclassified	815.0821632474
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Helicobacter.s__Helicobacter_typhlonius	222.6916538609
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	27.3433960535
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Parabacteroides.s__Parabacteroides_distasonis	15.0041477701
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation	1359.0805548233
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|unclassified	917.0733770719
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Helicobacter.s__Helicobacter_typhlonius	260.3703563067
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Mucispirillum.s__Mucispirillum_schaedleri	87.8512723989
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis	1328.4336742787
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|unclassified	704.6050389257
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	214.7332337670
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	16.9017745613
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II	1314.8675277073
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|unclassified	439.2345540573
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	204.5973485835
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis	1307.5902760159
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|unclassified	635.4857093342
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	244.0776792907
+PWY-6703: preQ0 biosynthesis	1286.7499326397
+PWY-6703: preQ0 biosynthesis|unclassified	575.7661324552
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	110.8803420065
+PWY-6703: preQ0 biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	102.3634642740
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	74.1428675298
+PWY-6703: preQ0 biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	49.8961934047
+PWY-6703: preQ0 biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	21.0424497487
+PWY-3781: aerobic respiration I (cytochrome c)	1274.7857585343
+PWY-3781: aerobic respiration I (cytochrome c)|g__Helicobacter.s__Helicobacter_typhlonius	423.9924817731
+PWY-3781: aerobic respiration I (cytochrome c)|unclassified	224.8689435311
+HISTSYN-PWY: L-histidine biosynthesis	1265.0953813833
+HISTSYN-PWY: L-histidine biosynthesis|unclassified	489.5376006681
+HISTSYN-PWY: L-histidine biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	225.1216564560
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	82.4626313313
+HISTSYN-PWY: L-histidine biosynthesis|g__Prevotella.s__Prevotella_sp_MGM2	80.5407236284
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	68.2301957904
+HISTSYN-PWY: L-histidine biosynthesis|g__Alistipes.s__Alistipes_timonensis	18.3811589652
+HISTSYN-PWY: L-histidine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis	14.7478021984
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	1257.7279662747
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|unclassified	516.4810303217
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	307.3446481580
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Mucispirillum.s__Mucispirillum_schaedleri	65.9020242357
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	24.2425800132
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Romboutsia.s__Romboutsia_ilealis	21.5229489354
+THRESYN-PWY: superpathway of L-threonine biosynthesis	1248.0046898899
+THRESYN-PWY: superpathway of L-threonine biosynthesis|unclassified	334.4453817989
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	220.7387929753
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	77.4087224154
+RHAMCAT-PWY: L-rhamnose degradation I	1244.7404156071
+RHAMCAT-PWY: L-rhamnose degradation I|unclassified	917.9649979464
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_caecimuris	263.2374382501
+CALVIN-PWY: Calvin-Benson-Bassham cycle	1241.4913587329
+CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified	559.8861283332
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Helicobacter.s__Helicobacter_typhlonius	208.4925241063
+PWY-5104: L-isoleucine biosynthesis IV	1197.8088596271
+PWY-5104: L-isoleucine biosynthesis IV|g__Helicobacter.s__Helicobacter_typhlonius	306.7783428035
+PWY-5104: L-isoleucine biosynthesis IV|unclassified	188.7075984663
+PWY-6151: S-adenosyl-L-methionine cycle I	1175.6720025935
+PWY-6151: S-adenosyl-L-methionine cycle I|unclassified	474.9798993830
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Helicobacter.s__Helicobacter_typhlonius	231.9039418886
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	25.4905277278
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Romboutsia.s__Romboutsia_ilealis	15.8640692758
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	7.1726632586
+ANAEROFRUCAT-PWY: homolactic fermentation	1147.2488243523
+ANAEROFRUCAT-PWY: homolactic fermentation|unclassified	435.3846454056
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III	1130.7858125891
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|unclassified	307.7856726599
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Helicobacter.s__Helicobacter_typhlonius	277.3337804258
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Mucispirillum.s__Mucispirillum_schaedleri	51.8018408666
+GLUTORN-PWY: L-ornithine biosynthesis	1102.2470662409
+GLUTORN-PWY: L-ornithine biosynthesis|unclassified	576.8166951923
+GLUTORN-PWY: L-ornithine biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	230.4380451996
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	17.6286838248
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	13.8203219105
+GLUTORN-PWY: L-ornithine biosynthesis|g__Clostridium.s__Clostridium_sp_ASF502	8.9108269911
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	8.3285627669
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	1066.5664208849
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	268.5587860988
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii	114.9695369613
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	40.4408352707
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis	21.5389864795
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	1046.4580342492
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Helicobacter.s__Helicobacter_typhlonius	240.5397923744
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Bacteroides.s__Bacteroides_sartorii	114.8757107994
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Bacteroides.s__Bacteroides_caecimuris	49.4748249226
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Parabacteroides.s__Parabacteroides_distasonis	18.2136251072
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)	1033.1648929525
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|unclassified	404.7534640998
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Helicobacter.s__Helicobacter_typhlonius	201.7253803475
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_sartorii	120.3583366200
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_caecimuris	74.0792065394
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Mucispirillum.s__Mucispirillum_schaedleri	31.7040582220
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Parabacteroides.s__Parabacteroides_distasonis	16.6324441461
+PWY-5100: pyruvate fermentation to acetate and lactate II	977.0426445597
+PWY-5100: pyruvate fermentation to acetate and lactate II|unclassified	614.4535132676
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Helicobacter.s__Helicobacter_typhlonius	267.7102685010
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Romboutsia.s__Romboutsia_ilealis	14.8442743468
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Acetatifactor.s__Acetatifactor_muris	10.6052716440
+PWY-5030: L-histidine degradation III	960.8678827416
+PWY-5030: L-histidine degradation III|unclassified	783.3743727354
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_sartorii	99.4296058243
+PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_timonensis	31.0795218203
+PWY-5030: L-histidine degradation III|g__Romboutsia.s__Romboutsia_ilealis	20.5758426248
+PWY-4981: L-proline biosynthesis II (from arginine)	951.2399815595
+PWY-4981: L-proline biosynthesis II (from arginine)|unclassified	495.7627737894
+PWY-6168: flavin biosynthesis III (fungi)	933.9819214367
+PWY-6168: flavin biosynthesis III (fungi)|unclassified	199.3457383835
+PWY-6168: flavin biosynthesis III (fungi)|g__Helicobacter.s__Helicobacter_typhlonius	182.5531428040
+PWY-6168: flavin biosynthesis III (fungi)|g__Bacteroides.s__Bacteroides_sartorii	118.4922831018
+PWY-6168: flavin biosynthesis III (fungi)|g__Bacteroides.s__Bacteroides_caecimuris	70.5329901375
+PWY-6168: flavin biosynthesis III (fungi)|g__Parabacteroides.s__Parabacteroides_distasonis	12.7651881340
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I	889.2916069978
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|unclassified	79.3930295180
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	874.3115436583
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|unclassified	189.5520891646
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Romboutsia.s__Romboutsia_ilealis	9.2516562686
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)	874.0625705414
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|unclassified	565.1458771651
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I	803.3940948822
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|unclassified	332.8632722000
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	230.8837734916
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris	33.8438580699
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_timonensis	28.2502088571
+PWY-7199: pyrimidine deoxyribonucleosides salvage	800.9242757498
+PWY-7199: pyrimidine deoxyribonucleosides salvage|unclassified	643.4291150844
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_caecimuris	36.1969314022
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Alistipes.s__Alistipes_timonensis	11.7424758338
+DAPLYSINESYN-PWY: L-lysine biosynthesis I	764.4649801934
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius	202.1416640504
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|unclassified	166.7624259564
+PWY-5659: GDP-mannose biosynthesis	746.4533182985
+PWY-5659: GDP-mannose biosynthesis|unclassified	461.7179927907
+PWY-5659: GDP-mannose biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	209.9890990539
+PWY-6737: starch degradation V	741.8555867011
+PWY-6737: starch degradation V|unclassified	558.5798778411
+PWY-6737: starch degradation V|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	9.6255280211
+PWY-6737: starch degradation V|g__Firmicutes_unclassified.s__Firmicutes_bacterium_ASF500	9.3772835336
+PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_sp_ASF502	7.7364407461
+PWY0-1296: purine ribonucleosides degradation	725.3370235430
+PWY0-1296: purine ribonucleosides degradation|unclassified	612.8605115628
+PWY0-1296: purine ribonucleosides degradation|g__Romboutsia.s__Romboutsia_ilealis	20.8373699091
+PWY0-1296: purine ribonucleosides degradation|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	20.1044803188
+PWY0-1296: purine ribonucleosides degradation|g__Clostridium.s__Clostridium_sp_ASF502	14.3530556317
+PWY0-1296: purine ribonucleosides degradation|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_COE1	9.9238715660
+PWY66-422: D-galactose degradation V (Leloir pathway)	723.6135499175
+PWY66-422: D-galactose degradation V (Leloir pathway)|unclassified	432.0123311960
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Romboutsia.s__Romboutsia_ilealis	19.1358529387
+PWY-7234: inosine-5'-phosphate biosynthesis III	711.6663448935
+PWY-7234: inosine-5'-phosphate biosynthesis III|unclassified	596.2656390706
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_timonensis	18.4195440261
+PWY-6892: thiazole biosynthesis I (E. coli)	697.4508269037
+PWY-6892: thiazole biosynthesis I (E. coli)|unclassified	463.1336548880
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Bacteroides.s__Bacteroides_caecimuris	86.4521760249
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis	667.7383699234
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	102.9828056925
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris	35.5085080335
+PWY-6527: stachyose degradation	664.7755000858
+PWY-6527: stachyose degradation|unclassified	378.8959568625
+PWY-6527: stachyose degradation|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_28_4	17.3964699779
+PWY-6527: stachyose degradation|g__Romboutsia.s__Romboutsia_ilealis	16.3256508944
+COLANSYN-PWY: colanic acid building blocks biosynthesis	644.3580058716
+COLANSYN-PWY: colanic acid building blocks biosynthesis|unclassified	77.1296682795
+PWY66-399: gluconeogenesis III	640.7512268573
+PWY66-399: gluconeogenesis III|unclassified	547.6658381249
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)	637.3152408695
+PWY-6317: galactose degradation I (Leloir pathway)	608.3210887413
+PWY-6317: galactose degradation I (Leloir pathway)|unclassified	432.0123311960
+PWY-6317: galactose degradation I (Leloir pathway)|g__Romboutsia.s__Romboutsia_ilealis	19.4857841580
+METSYN-PWY: L-homoserine and L-methionine biosynthesis	589.4700930533
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis	569.1145952249
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type	562.2722305664
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|unclassified	23.4703218076
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	561.1228188485
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|unclassified	55.3259985577
+FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage	556.0032677892
+PWY-6897: thiamin salvage II	552.8915530220
+PWY-6897: thiamin salvage II|unclassified	37.2477472413
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)	552.0213130467
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|unclassified	229.3977890013
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii	147.3646854812
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_caecimuris	30.6012730885
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff	542.5773291779
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|unclassified	136.8443840772
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)	541.7964660933
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Helicobacter.s__Helicobacter_typhlonius	244.4318714950
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|unclassified	194.8650154717
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Mucispirillum.s__Mucispirillum_schaedleri	51.9459645987
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Romboutsia.s__Romboutsia_ilealis	18.7060819683
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)	536.1685422062
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|unclassified	22.8059845334
+PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type	523.0001881994
+PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type|unclassified	19.9972073587
+PWY-6608: guanosine nucleotides degradation III	518.8553597885
+PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_caecimuris	50.7405164322
+PWY-6608: guanosine nucleotides degradation III|unclassified	37.7398311970
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I	517.6819213362
+PWY0-781: aspartate superpathway	514.7119277230
+TRPSYN-PWY: L-tryptophan biosynthesis	500.0864174964
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	165.7741410196
+TRPSYN-PWY: L-tryptophan biosynthesis|unclassified	71.6791052348
+CITRULBIO-PWY: L-citrulline biosynthesis	489.3200497751
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	183.6546210435
+PWY-6859: all-trans-farnesol biosynthesis	478.5826150656
+PWY-6859: all-trans-farnesol biosynthesis|unclassified	16.6811540200
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)	471.7748298950
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Helicobacter.s__Helicobacter_typhlonius	202.2004829663
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|unclassified	185.5799731925
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Parabacteroides.s__Parabacteroides_distasonis	15.6445544885
+PWY-5913: TCA cycle VI (obligate autotrophs)	465.1395069548
+PWY-5913: TCA cycle VI (obligate autotrophs)|unclassified	16.4541846440
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)	444.8763647673
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|unclassified	86.7486191976
+PWY-4984: urea cycle	441.5765054723
+PWY-4984: urea cycle|g__Helicobacter.s__Helicobacter_typhlonius	223.5074139285
+P164-PWY: purine nucleobases degradation I (anaerobic)	434.5998245077
+P164-PWY: purine nucleobases degradation I (anaerobic)|unclassified	18.0870673239
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)	426.7905121210
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|unclassified	32.6490800631
+PPGPPMET-PWY: ppGpp biosynthesis	425.4766238593
+PPGPPMET-PWY: ppGpp biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	247.4467428329
+PPGPPMET-PWY: ppGpp biosynthesis|unclassified	106.3543007618
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)	421.4693035633
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|unclassified	326.7828661119
+PWY-6803: phosphatidylcholine acyl editing	414.9520169443
+PWY-6901: superpathway of glucose and xylose degradation	407.5597544090
+PWY-6901: superpathway of glucose and xylose degradation|unclassified	142.5998617409
+PWY-6612: superpathway of tetrahydrofolate biosynthesis	405.8096475832
+PWY-7237: myo-, chiro- and scillo-inositol degradation	396.3020878160
+PWY-7237: myo-, chiro- and scillo-inositol degradation|unclassified	314.9316279801
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Romboutsia.s__Romboutsia_ilealis	36.2572590756
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Parabacteroides.s__Parabacteroides_distasonis	26.9791963068
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Acetatifactor.s__Acetatifactor_muris	8.8801421204
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Clostridium.s__Clostridium_sp_ASF502	5.3297872340
+PWY-6936: seleno-amino acid biosynthesis	391.3864957924
+PWY-6936: seleno-amino acid biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	211.3575772203
+PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	103.4343423366
+PWY-6936: seleno-amino acid biosynthesis|unclassified	36.4906884265
+PWY-6936: seleno-amino acid biosynthesis|g__Romboutsia.s__Romboutsia_ilealis	19.5605627621
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV	375.2350379514
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|unclassified	266.0956930249
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)	372.6793292380
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|g__Helicobacter.s__Helicobacter_typhlonius	278.9032655649
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|unclassified	17.1723963741
+P42-PWY: incomplete reductive TCA cycle	371.1064265056
+P42-PWY: incomplete reductive TCA cycle|unclassified	161.7512381947
+FERMENTATION-PWY: mixed acid fermentation	353.4685720066
+FERMENTATION-PWY: mixed acid fermentation|unclassified	31.0132528020
+TCA: TCA cycle I (prokaryotic)	347.4811260166
+TCA: TCA cycle I (prokaryotic)|unclassified	195.6038993936
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I	346.5146905341
+PWY-7371: 1,4-dihydroxy-6-naphthoate biosynthesis II	326.8178474426
+PWY-7371: 1,4-dihydroxy-6-naphthoate biosynthesis II|g__Helicobacter.s__Helicobacter_typhlonius	250.7259100778
+PWY-7371: 1,4-dihydroxy-6-naphthoate biosynthesis II|unclassified	22.7238738778
+PWY-5941: glycogen degradation II (eukaryotic)	322.1662315490
+PWY-5941: glycogen degradation II (eukaryotic)|unclassified	181.2254925552
+PWY-5505: L-glutamate and L-glutamine biosynthesis	320.9502266279
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)	312.8352022495
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Helicobacter.s__Helicobacter_typhlonius	210.9473019080
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Romboutsia.s__Romboutsia_ilealis	20.9500915552
+PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	312.5099110217
+PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)|unclassified	243.2832049590
+P108-PWY: pyruvate fermentation to propanoate I	300.8305960713
+P108-PWY: pyruvate fermentation to propanoate I|unclassified	292.9810715845
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	298.8010243228
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius	200.8833049556
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Mucispirillum.s__Mucispirillum_schaedleri	52.1390928013
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|unclassified	18.1695273895
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)	296.0884606747
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|unclassified	280.8745237140
+PENTOSE-P-PWY: pentose phosphate pathway	291.9249476547
+PENTOSE-P-PWY: pentose phosphate pathway|unclassified	76.1757584983
+PENTOSE-P-PWY: pentose phosphate pathway|g__Parabacteroides.s__Parabacteroides_distasonis	12.7436610830
+PWY-7456: mannan degradation	290.9679221342
+PWY-7456: mannan degradation|unclassified	42.9993463715
+PWY0-1261: anhydromuropeptides recycling	289.2272822446
+PWY0-1261: anhydromuropeptides recycling|unclassified	178.7609672809
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)	253.1373468362
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|unclassified	181.3196553141
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)	253.1373468362
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|unclassified	181.3196553141
+PWY-6549: L-glutamine biosynthesis III	246.9621748692
+PWY-6549: L-glutamine biosynthesis III|unclassified	42.1305414830
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I	246.1699486878
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|unclassified	164.6629598444
+NONMEVIPP-PWY: methylerythritol phosphate pathway I	224.7071954148
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)	220.0080548469
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I	216.8505569792
+PWY-5918: superpathay of heme biosynthesis from glutamate	207.8870589295
+FASYN-ELONG-PWY: fatty acid elongation -- saturated	201.6477721403
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|unclassified	189.6213680174
+GALACTUROCAT-PWY: D-galacturonate degradation I	197.6964799002
+GALACTUROCAT-PWY: D-galacturonate degradation I|unclassified	90.1592217331
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Alistipes.s__Alistipes_timonensis	46.1444928494
+PWY-7254: TCA cycle VII (acetate-producers)	196.1212588394
+PWYG-321: mycolate biosynthesis	183.9502017983
+PWYG-321: mycolate biosynthesis|unclassified	173.2525793324
+PWY-5690: TCA cycle II (plants and fungi)	182.0972098593
+PWY-5690: TCA cycle II (plants and fungi)|unclassified	143.2395099711
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis	181.3727447094
+PWY-7664: oleate biosynthesis IV (anaerobic)	178.2157450006
+PWY-7664: oleate biosynthesis IV (anaerobic)|unclassified	169.7444225480
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I	177.4316608583
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	171.8064444476
+P441-PWY: superpathway of N-acetylneuraminate degradation	167.8378509806
+P441-PWY: superpathway of N-acetylneuraminate degradation|unclassified	48.9613558948
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)	157.0565542438
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|unclassified	130.5747985019
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis	154.3077617955
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|unclassified	148.9292039740
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	154.1183710273
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|unclassified	147.7520224826
+PWY-5989: stearate biosynthesis II (bacteria and plants)	150.9776515836
+PWY-5989: stearate biosynthesis II (bacteria and plants)|unclassified	143.4297514924
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis	147.9912952725
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|unclassified	133.7588877286
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	141.7585602899
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)	136.0718719689
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|unclassified	117.4594544842
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)	129.2199431447
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|unclassified	126.6965719499
+PYRIDNUCSAL-PWY: NAD salvage pathway I	117.5521544223
+PYRIDNUCSAL-PWY: NAD salvage pathway I|unclassified	96.1797684466
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation	116.7956760960
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|unclassified	65.1709880396
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Romboutsia.s__Romboutsia_ilealis	9.0456420550
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)	114.1101368163
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Mucispirillum.s__Mucispirillum_schaedleri	58.6726383626
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|unclassified	10.5312388689
+PWY-7392: taxadiene biosynthesis (engineered)	102.2774432040
+NAGLIPASYN-PWY: lipid IVA biosynthesis	100.9891052040
+NAGLIPASYN-PWY: lipid IVA biosynthesis|unclassified	97.6172438955
+TEICHOICACID-PWY: teichoic acid (poly-glycerol) biosynthesis	99.6125131230
+PWY-6270: isoprene biosynthesis I	94.7260829052
+PWY0-1479: tRNA processing	92.6655308817
+PWY0-1479: tRNA processing|unclassified	89.3251611070
+PWY-7332: superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis	91.3827274977
+PWY-4041: &gamma;-glutamyl cycle	90.5988304417
+PWY-4041: &gamma;-glutamyl cycle|unclassified	10.5957969054
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)	87.8526260617
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation	87.6986401220
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|unclassified	75.1232746638
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation	87.4967772745
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|unclassified	21.1912692008
+PWY-7560: methylerythritol phosphate pathway II	83.2875938583
+PWY-6305: putrescine biosynthesis IV	82.1910094364
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate	81.3934214732
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|unclassified	24.3856467803
+P124-PWY: Bifidobacterium shunt	81.0104073907
+PWY-2941: L-lysine biosynthesis II	80.3659774039
+PWY-2941: L-lysine biosynthesis II|unclassified	78.0936954262
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation	78.7287928138
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|unclassified	38.8290949929
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)	72.3247517751
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|unclassified	71.6600352294
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)	71.6649100924
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|unclassified	16.9528917310
+PWY-6353: purine nucleotides degradation II (aerobic)	67.3874447636
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation	66.7924387821
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|unclassified	65.6733165730
+POLYAMINSYN3-PWY: superpathway of polyamine biosynthesis II	64.8424122351
+P562-PWY: myo-inositol degradation I	61.2194828632
+P562-PWY: myo-inositol degradation I|unclassified	46.6008399760
+P122-PWY: heterolactic fermentation	58.2849410176
+P161-PWY: acetylene degradation	57.1292297004
+P161-PWY: acetylene degradation|unclassified	13.3251987978
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)	49.3159120358
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|unclassified	10.6560564072
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation	46.7847674162
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|unclassified	46.4798783873
+PWY-7242: D-fructuronate degradation	46.7101367029
+PWY-7242: D-fructuronate degradation|unclassified	46.4118919671
+METH-ACETATE-PWY: methanogenesis from acetate	46.4276853028
+METH-ACETATE-PWY: methanogenesis from acetate|unclassified	45.8691961834
+FUCCAT-PWY: fucose degradation	43.5879297314
+FUCCAT-PWY: fucose degradation|unclassified	43.5551650188
+PWY0-1061: superpathway of L-alanine biosynthesis	39.7609838703
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudolongum	20.8968270958
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type	39.1410185473
+PWY3O-355: stearate biosynthesis III (fungi)	38.6873241483
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)	37.6351240650
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Romboutsia.s__Romboutsia_ilealis	13.8351072335
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|unclassified	11.5714357804
+PWY-6606: guanosine nucleotides degradation II	36.8873304715
+LACTOSECAT-PWY: lactose and galactose degradation I	34.2363780113
+LACTOSECAT-PWY: lactose and galactose degradation I|unclassified	21.4155341356
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III	33.9075405561
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II	31.7096755535
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|unclassified	31.6016802884
+PWY-621: sucrose degradation III (sucrose invertase)	31.1255065295
+PWY-621: sucrose degradation III (sucrose invertase)|unclassified	30.9571604000
+PWY-5005: biotin biosynthesis II	27.7853383077
+PWY-5005: biotin biosynthesis II|unclassified	26.6797525931
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation	24.0064156742
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|unclassified	23.2562525813
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP	23.4316658327
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|unclassified	23.3054811232
+PWY-5514: UDP-N-acetyl-D-galactosamine biosynthesis II	20.8369803163
+PWY-5514: UDP-N-acetyl-D-galactosamine biosynthesis II|unclassified	20.2191858539
+PWY-5676: acetyl-CoA fermentation to butanoate II	20.4973323559
+PWY-5676: acetyl-CoA fermentation to butanoate II|unclassified	20.4198329346
+CENTFERM-PWY: pyruvate fermentation to butanoate	18.7607500318
+CENTFERM-PWY: pyruvate fermentation to butanoate|unclassified	18.2214165193
+PWY-6749: CMP-legionaminate biosynthesis I	18.2333430139
+PWY-6749: CMP-legionaminate biosynthesis I|unclassified	18.1837157325
+UDPNACETYLGALSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis II	15.7425139689
+UDPNACETYLGALSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis II|unclassified	15.5636450463
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation	15.3144856508
+KETOGLUCONMET-PWY: ketogluconate metabolism	13.1422385933
+KETOGLUCONMET-PWY: ketogluconate metabolism|unclassified	13.1422385933
+PWY-5177: glutaryl-CoA degradation	10.9217069989
+PWY-5177: glutaryl-CoA degradation|unclassified	10.9042002660
+PWY-5871: ubiquinol-9 biosynthesis (eukaryotic)	10.8345398988
+PWY-5871: ubiquinol-9 biosynthesis (eukaryotic)|unclassified	8.0075436559
+PWY-5873: ubiquinol-7 biosynthesis (eukaryotic)	10.8345398988
+PWY-5873: ubiquinol-7 biosynthesis (eukaryotic)|unclassified	8.0075436559
+PWY-7235: superpathway of ubiquinol-6 biosynthesis (eukaryotic)	10.8345398988
+PWY-7235: superpathway of ubiquinol-6 biosynthesis (eukaryotic)|unclassified	8.0075436559
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)	10.6997872168
+PWY66-391: fatty acid &beta;-oxidation VI (peroxisome)	10.6805051149
+FAO-PWY: fatty acid &beta;-oxidation I	10.5291457255
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)	8.7156802393
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)|unclassified	8.6998849661
+PWY-6117: spermine and spermidine degradation I	7.3016754973
+PWY-6117: spermine and spermidine degradation I|unclassified	7.1612803510
+PWY-6992: 1,5-anhydrofructose degradation	5.9996270034
+PWY-6992: 1,5-anhydrofructose degradation|unclassified	5.3357156518
+PWY-7420: monoacylglycerol metabolism (yeast)	5.1608858932
+PWY66-201: nicotine degradation IV	4.8657828172
+PWY66-201: nicotine degradation IV|unclassified	4.8657828172
+PWY-6948: sitosterol degradation to androstenedione	2.1570911771
+PWY-6948: sitosterol degradation to androstenedione|unclassified	2.1570911771
