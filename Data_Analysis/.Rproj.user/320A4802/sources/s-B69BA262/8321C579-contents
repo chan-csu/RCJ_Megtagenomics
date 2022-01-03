@@ -1,0 +1,72 @@
+library(Maaslin2)
+source(file="libraries.R")
+
+?Maaslin2
+setwd("C:/Outputs/R_Analysis/MaAsLin2/")
+metadata=read.csv("metadata.tsv",sep="\t", header = TRUE, row.names = 1)
+Path_Abundance=read.csv("humann2pathabundance_cpm.tsv",row.names = 1,sep='\t',header = TRUE)
+Gene_Abundance=read.csv("humann2kegg_named_cpm.tsv",row.names = 1,sep='\t',header = TRUE)
+Path_Cols=colnames(Path_Abundance)
+Gene_Cols=colnames(Gene_Abundance)
+row_names_df_to_remove="DSS_treatedp"
+metadata=metadata[!(row.names(metadata) %in% row_names_df_to_remove),]
+i=0
+for(col in Path_Cols){
+  i=i+1
+  Path_Cols[i]=gsub("_A.*","",Path_Cols[i])
+} 
+i=0
+for(col in Gene_Cols){
+  i=i+1
+  Gene_Cols[i]=gsub("_A.*","",Gene_Cols[i])
+} 
+
+colnames(Path_Abundance)=Path_Cols
+colnames(Gene_Abundance)=Gene_Cols
+
+
+Maaslin2(
+  Path_Abundance,
+  metadata,
+  "Step 3 Path",
+
+  fixed_effects = c("RCEwDSS_only,DSS_only,RCE_only,Sex"),
+  cores = 4,
+)
+Maaslin2(
+  Gene_Abundance,
+  metadata,
+  "Step 3 Gene",
+  fixed_effects = c("RCEwDSS_only,DSS_only,RCE_only,Sex"),
+  cores = 4,
+)
+
+
+
+
+
+
+
+
+
+fit_data2 = Maaslin2(
+  input_data = Path_Abundance, 
+  input_metadata = metadata, 
+  output = "DSS_treatment", 
+  fixed_effects = c("DSS_treatment"))
+fit_data2 = Maaslin2(
+  input_data = Path_Abundance, 
+  input_metadata = metadata, 
+  output = "Pathology", 
+  fixed_effects = c("DSS_Only","Sex"))
+fit_data2 = Maaslin2(
+  input_data = Path_Abundance, 
+  input_metadata = metadata, 
+  output = "Sex", 
+  fixed_effects = c("Sex"))
+
+fit_data2 = Maaslin2(
+  input_data = Path_Abundance, 
+  input_metadata = metadata, 
+  output = "Timepoint_Weeks", 
+  fixed_effects = c("Timepoint_Weeks"))
