@@ -1,0 +1,326 @@
+== This is the scripting step! ==
+N E X T F L O W  ~  version 21.04.1
+Launching `YAMP.nf` [stoic_cray] - revision: 987380b166
+---------------------------------------------
+YET ANOTHER METAGENOMIC PIPELINE (YAMP) 
+---------------------------------------------
+
+Analysis introspection:
+
+
+Starting time              : Fri Aug 27 13:54:07 MDT 2021
+Environment                : 
+Pipeline Name              : YAMP
+Pipeline Version           : 0.9.5.3
+Config Profile             : base,singularity
+Resumed                    : true
+Nextflow version           : 21.04.1 build 5556 (14-05-2021 15:20 UTC)
+Java version               : 1.8.0_91
+Java Virtual Machine       : Java HotSpot(TM) 64-Bit Server VM(25.91-b14)
+Operating system           : Linux amd64 v3.10.0-957.21.3.el7.x86_64
+User name                  : parsa96@colostate.edu
+Container Engine           : singularity
+Container                  : [:]
+BBmap                      : https://depot.galaxyproject.org/singularity/bbmap:38.87--h1296035_0
+FastQC                     : https://depot.galaxyproject.org/singularity/fastqc:0.11.9--0
+biobakery                  : biobakery/workflows:3.0.0.a.6.metaphlanv3.0.7
+qiime                      : qiime2/core:2020.8
+MultiQC                    : https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1
+Running parameters         : 
+Reads                      : [/scratch/summit/parsa96@colostate.edu/YAMP/YAMP/Raw_Data/D_Control/D_Control_S2_R1_001.fastq.gz, /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/Raw_Data/D_Control/D_Control_S2_R2_001.fastq.gz]
+Prefix                     : test_Satya
+Running mode               : complete
+Layout                     : Paired-End
+Performing de-duplication  : false
+Synthetic contaminants     : 
+Artefacts                  : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/sequencing_artifacts.fa.gz
+Phix174ill                 : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/phix174_ill.ref.fa.gz
+Adapters                   : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/adapters.fa
+Trimming parameters        : 
+Input quality offset       : ASCII+33
+Min phred score            : 10
+Min length                 : 60
+kmer lenght                : 23
+Shorter kmer               : 11
+Max Hamming distance       : 1
+Decontamination parameters : 
+Contaminant (pan)genome    : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/hg19_main_mask_ribo_animal_allplant_allfungus.fa.gz
+Min alignment identity     : 0.95
+Max indel length           : 3
+Max alignment band         : 0.16
+MetaPhlAn parameters       : 
+MetaPhlAn database         : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/metaphlan_databases/
+Bowtie2 options            : very-sensitive
+HUMAnN parameters          : 
+Chocophlan database        : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/chocophlan
+Uniref database            : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/uniref
+Folders                    : 
+Output dir                 : Satya
+Working dir                : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/work
+Script dir                 : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP
+Lunching dir               : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP
+
+[-        ] process > get_software_versions -
+
+[-        ] process > get_software_versions -
+[-        ] process > dedup                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+[-        ] process > merge_paired_end_cleaned      -
+
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e6/e22ce5] process > quality_assessment (test_Sa... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e6/e22ce5] process > quality_assessment (test_Sa... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e6/e22ce5] process > quality_assessment (test_Sa... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e6/e22ce5] process > quality_assessment (test_Sa... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   [  0%] 0 of 1
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (1)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [  0%] 0 of 1
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (1)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [  0%] 0 of 1
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (2)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[0c/90112b] process > alpha_diversity (test_Satya)   [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (2)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[0c/90112b] process > alpha_diversity (test_Satya)   [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (3)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[f1/c1b828] process > profile_function (test_Satya)  [  0%] 0 of 1
+[0c/90112b] process > alpha_diversity (test_Satya)   [100%] 1 of 1 ✔
+[-        ] process > log                            -
+
+executor >  local (3)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[f1/c1b828] process > profile_function (test_Satya)  [100%] 1 of 1 ✔
+[0c/90112b] process > alpha_diversity (test_Satya)   [100%] 1 of 1 ✔
+[-        ] process > log                            -
+
+executor >  local (3)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[f1/c1b828] process > profile_function (test_Satya)  [100%] 1 of 1 ✔
+[0c/90112b] process > alpha_diversity (test_Satya)   [100%] 1 of 1 ✔
+[-        ] process > log                            -
+Pulling Singularity image https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1 [cache /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/depot.galaxyproject.org-singularity-multiqc-1.9--py_1.img]
+
+executor >  local (3)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[f1/c1b828] process > profile_function (test_Satya)  [100%] 1 of 1 ✔
+[0c/90112b] process > alpha_diversity (test_Satya)   [100%] 1 of 1 ✔
+[-        ] process > log                            [  0%] 0 of 1
+Pulling Singularity image https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1 [cache /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/depot.galaxyproject.org-singularity-multiqc-1.9--py_1.img]
+
+executor >  local (4)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[f1/c1b828] process > profile_function (test_Satya)  [100%] 1 of 1 ✔
+[0c/90112b] process > alpha_diversity (test_Satya)   [100%] 1 of 1 ✔
+[62/3d0c13] process > log (1)                        [  0%] 0 of 1
+Pulling Singularity image https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1 [cache /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/depot.galaxyproject.org-singularity-multiqc-1.9--py_1.img]
+
+executor >  local (4)
+[78/1205ae] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[67/d17a9b] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[50/b88123] process > trim (test_Satya)              [100%] 1 of 1, cached: 1 ✔
+[e5/6c7acf] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[cc/69b090] process > decontaminate (test_Satya)     [100%] 1 of 1, cached: 1 ✔
+[31/12ad3a] process > quality_assessment (test_Sa... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8c/bd9909] process > profile_taxa (test_Satya)      [100%] 1 of 1 ✔
+[f1/c1b828] process > profile_function (test_Satya)  [100%] 1 of 1 ✔
+[0c/90112b] process > alpha_diversity (test_Satya)   [100%] 1 of 1 ✔
+[62/3d0c13] process > log (1)                        [100%] 1 of 1 ✔
+Pulling Singularity image https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1 [cache /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/depot.galaxyproject.org-singularity-multiqc-1.9--py_1.img]
+Completed at: 03-Sep-2021 04:49:02
+Duration    : 6d 14h 55m 5s
+CPU hours   : 7'799.2 (2.2% cached)
+Succeeded   : 4
+Cached      : 7
+
+
+== End of Job ==

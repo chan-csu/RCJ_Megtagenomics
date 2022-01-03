@@ -1,0 +1,421 @@
+== This is the scripting step! ==
+N E X T F L O W  ~  version 21.04.1
+Launching `YAMP.nf` [ecstatic_dalembert] - revision: 987380b166
+---------------------------------------------
+YET ANOTHER METAGENOMIC PIPELINE (YAMP) 
+---------------------------------------------
+
+Analysis introspection:
+
+
+Starting time              : Sun Dec 05 13:02:26 MST 2021
+Environment                : 
+Pipeline Name              : YAMP
+Pipeline Version           : 0.9.5.3
+Config Profile             : base,singularity
+Resumed                    : true
+Nextflow version           : 21.04.1 build 5556 (14-05-2021 15:20 UTC)
+Java version               : 1.8.0_91
+Java Virtual Machine       : Java HotSpot(TM) 64-Bit Server VM(25.91-b14)
+Operating system           : Linux amd64 v3.10.0-957.21.3.el7.x86_64
+User name                  : parsa96@colostate.edu
+Container Engine           : singularity
+Container                  : [:]
+BBmap                      : https://depot.galaxyproject.org/singularity/bbmap:38.87--h1296035_0
+FastQC                     : https://depot.galaxyproject.org/singularity/fastqc:0.11.9--0
+biobakery                  : biobakery/workflows:3.0.0.a.6.metaphlanv3.0.7
+qiime                      : qiime2/core:2020.8
+MultiQC                    : https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1
+Running parameters         : 
+Reads                      : [/scratch/summit/parsa96@colostate.edu/YAMP/YAMP/Raw_Data/D_DSS/D_DSS_S3_R1_001.fastq.gz, /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/Raw_Data/D_DSS/D_DSS_S3_R2_001.fastq.gz]
+Prefix                     : D_DSS
+Running mode               : complete
+Layout                     : Paired-End
+Performing de-duplication  : false
+Synthetic contaminants     : 
+Artefacts                  : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/sequencing_artifacts.fa.gz
+Phix174ill                 : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/phix174_ill.ref.fa.gz
+Adapters                   : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/adapters.fa
+Trimming parameters        : 
+Input quality offset       : ASCII+33
+Min phred score            : 10
+Min length                 : 60
+kmer lenght                : 23
+Shorter kmer               : 11
+Max Hamming distance       : 1
+Decontamination parameters : 
+Contaminant (pan)genome    : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/hg19_main_mask_ribo_animal_allplant_allfungus.fa.gz
+Min alignment identity     : 0.95
+Max indel length           : 3
+Max alignment band         : 0.16
+MetaPhlAn parameters       : 
+MetaPhlAn database         : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/metaphlan_databases/
+Bowtie2 options            : very-sensitive
+HUMAnN parameters          : 
+Chocophlan database        : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/chocophlan
+Uniref database            : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/assets/data/uniref
+Folders                    : 
+Output dir                 : Satya
+Working dir                : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6/work
+Script dir                 : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6
+Lunching dir               : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP6
+
+[-        ] process > get_software_versions -
+
+[-        ] process > get_software_versions -
+[-        ] process > dedup                 -
+
+[-        ] process > get_software_versions -
+[-        ] process > dedup                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+
+[-        ] process > get_software_versions         [  0%] 0 of 1
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+
+[-        ] process > get_software_versions         [  0%] 0 of 1
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+
+[d8/680776] process > get_software_versions         [  0%] 0 of 1
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+[-        ] process > profile_taxa                  -
+
+executor >  local (1)
+[d8/680776] process > get_software_versions         [  0%] 0 of 1
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+[-        ] process > profile_taxa                  -
+[-        ] process > profile_function              -
+[-        ] process > alpha_diversity               -
+
+executor >  local (1)
+[d8/680776] process > get_software_versions         [  0%] 0 of 1
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+[-        ] process > profile_taxa                  -
+[-        ] process > profile_function              -
+[-        ] process > alpha_diversity               -
+[-        ] process > log                           -
+
+executor >  local (2)
+[d8/680776] process > get_software_versions         [100%] 1 of 1
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[52/6da739] process > index_foreign_genome (1)      [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+[-        ] process > profile_taxa                  -
+[-        ] process > profile_function              -
+[-        ] process > alpha_diversity               -
+[-        ] process > log                           -
+
+executor >  local (2)
+[d8/680776] process > get_software_versions         [100%] 1 of 1 ✔
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[52/6da739] process > index_foreign_genome (1)      [  0%] 0 of 1
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+[-        ] process > profile_taxa                  -
+[-        ] process > profile_function              -
+[-        ] process > alpha_diversity               -
+[-        ] process > log                           -
+
+executor >  local (2)
+[d8/680776] process > get_software_versions         [100%] 1 of 1 ✔
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants [  0%] 0 of 1
+[-        ] process > trim                          -
+[52/6da739] process > index_foreign_genome (1)      [100%] 1 of 1 ✔
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned      -
+[-        ] process > profile_taxa                  -
+[-        ] process > profile_function              -
+[-        ] process > alpha_diversity               -
+[-        ] process > log                           -
+
+executor >  local (3)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [  0%] 0 of 1
+[-        ] process > trim                           -
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[-        ] process > decontaminate                  -
+[-        ] process > quality_assessment             [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (4)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [  0%] 0 of 1
+[-        ] process > trim                           -
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[-        ] process > decontaminate                  -
+[8e/080871] process > quality_assessment (D_DSS)     [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (4)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[-        ] process > trim                           -
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[-        ] process > decontaminate                  -
+[8e/080871] process > quality_assessment (D_DSS)     [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (4)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[-        ] process > trim                           [  0%] 0 of 1
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[-        ] process > decontaminate                  -
+[8e/080871] process > quality_assessment (D_DSS)     [  0%] 0 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (5)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [  0%] 0 of 1
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[-        ] process > decontaminate                  -
+[8e/080871] process > quality_assessment (D_DSS)     [100%] 1 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (5)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[-        ] process > decontaminate                  -
+[8e/080871] process > quality_assessment (D_DSS)     [100%] 1 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (6)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [  0%] 0 of 1
+[8e/080871] process > quality_assessment (D_DSS)     [100%] 1 of 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (7)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [ 50%] 1 of 2
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (7)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [ 50%] 1 of 2
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   [  0%] 0 of 1
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (8)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [  0%] 0 of 1
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+executor >  local (9)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[0b/a4b336] process > alpha_diversity (D_DSS)        [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (9)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[0b/a4b336] process > alpha_diversity (D_DSS)        [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (10)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[86/46e354] process > profile_function (D_DSS)       [  0%] 0 of 1
+[0b/a4b336] process > alpha_diversity (D_DSS)        [100%] 1 of 1 ✔
+[-        ] process > log                            -
+
+executor >  local (10)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[86/46e354] process > profile_function (D_DSS)       [100%] 1 of 1 ✔
+[0b/a4b336] process > alpha_diversity (D_DSS)        [100%] 1 of 1 ✔
+[-        ] process > log                            -
+
+executor >  local (11)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[86/46e354] process > profile_function (D_DSS)       [100%] 1 of 1 ✔
+[0b/a4b336] process > alpha_diversity (D_DSS)        [100%] 1 of 1 ✔
+[07/c13dad] process > log (1)                        [  0%] 0 of 1
+
+executor >  local (11)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[86/46e354] process > profile_function (D_DSS)       [100%] 1 of 1 ✔
+[0b/a4b336] process > alpha_diversity (D_DSS)        [100%] 1 of 1 ✔
+[07/c13dad] process > log (1)                        [100%] 1 of 1 ✔
+
+executor >  local (11)
+[d8/680776] process > get_software_versions          [100%] 1 of 1 ✔
+[-        ] process > dedup                          -
+[59/556175] process > remove_synthetic_contaminan... [100%] 1 of 1 ✔
+[c0/281f64] process > trim (D_DSS)                   [100%] 1 of 1 ✔
+[52/6da739] process > index_foreign_genome (1)       [100%] 1 of 1 ✔
+[a1/a3a0de] process > decontaminate (D_DSS)          [100%] 1 of 1 ✔
+[c2/347a31] process > quality_assessment (D_DSS)     [100%] 2 of 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[96/c6eb97] process > profile_taxa (D_DSS)           [100%] 1 of 1 ✔
+[86/46e354] process > profile_function (D_DSS)       [100%] 1 of 1 ✔
+[0b/a4b336] process > alpha_diversity (D_DSS)        [100%] 1 of 1 ✔
+[07/c13dad] process > log (1)                        [100%] 1 of 1 ✔
+Completed at: 12-Dec-2021 08:18:58
+Duration    : 6d 19h 16m 44s
+CPU hours   : 7'836.9
+Succeeded   : 11
+
+
+== End of Job ==

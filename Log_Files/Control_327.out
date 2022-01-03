@@ -1,0 +1,277 @@
+== This is the scripting step! ==
+N E X T F L O W  ~  version 21.04.1
+Launching `YAMP.nf` [kickass_einstein] - revision: 987380b166
+---------------------------------------------
+YET ANOTHER METAGENOMIC PIPELINE (YAMP) 
+---------------------------------------------
+
+Analysis introspection:
+
+
+Starting time              : Tue Dec 07 10:18:16 MST 2021
+Environment                : 
+Pipeline Name              : YAMP
+Pipeline Version           : 0.9.5.3
+Config Profile             : base,singularity
+Resumed                    : true
+Nextflow version           : 21.04.1 build 5556 (14-05-2021 15:20 UTC)
+Java version               : 1.8.0_91
+Java Virtual Machine       : Java HotSpot(TM) 64-Bit Server VM(25.91-b14)
+Operating system           : Linux amd64 v3.10.0-957.21.3.el7.x86_64
+User name                  : mahshidm@colostate.edu
+Container Engine           : singularity
+Container                  : [:]
+BBmap                      : https://depot.galaxyproject.org/singularity/bbmap:38.87--h1296035_0
+FastQC                     : https://depot.galaxyproject.org/singularity/fastqc:0.11.9--0
+biobakery                  : biobakery/workflows:3.0.0.a.6.metaphlanv3.0.7
+qiime                      : qiime2/core:2020.8
+MultiQC                    : https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1
+Running parameters         : 
+Reads                      : [/scratch/summit/mahshidm@colostate.edu/YAMP2/Raw_Data/Control_327/Control_327_S8_R1_001.fastq.gz, /scratch/summit/mahshidm@colostate.edu/YAMP2/Raw_Data/Control_327/Control_327_S8_R2_001.fastq.gz]
+Prefix                     : Control_327
+Running mode               : complete
+Layout                     : Paired-End
+Performing de-duplication  : false
+Synthetic contaminants     : 
+Artefacts                  : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/sequencing_artifacts.fa.gz
+Phix174ill                 : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/phix174_ill.ref.fa.gz
+Adapters                   : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/adapters.fa
+Trimming parameters        : 
+Input quality offset       : ASCII+33
+Min phred score            : 10
+Min length                 : 60
+kmer lenght                : 23
+Shorter kmer               : 11
+Max Hamming distance       : 1
+Decontamination parameters : 
+Contaminant (pan)genome    : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/hg19_main_mask_ribo_animal_allplant_allfungus.fa.gz
+Min alignment identity     : 0.95
+Max indel length           : 3
+Max alignment band         : 0.16
+MetaPhlAn parameters       : 
+MetaPhlAn database         : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/metaphlan_databases/
+Bowtie2 options            : very-sensitive
+HUMAnN parameters          : 
+Chocophlan database        : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/chocophlan
+Uniref database            : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/assets/data/uniref
+Folders                    : 
+Output dir                 : Satya
+Working dir                : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2/work
+Script dir                 : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2
+Lunching dir               : /gpfs/summit/scratch/mahshidm@colostate.edu/YAMP2
+
+[-        ] process > get_software_versions -
+
+[-        ] process > get_software_versions -
+[-        ] process > dedup                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+[-        ] process > merge_paired_end_cleaned      -
+
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1
+[-        ] process > trim                           -
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1
+[-        ] process > decontaminate                  -
+[e3/415281] process > quality_assessment (Control... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e3/415281] process > quality_assessment (Control... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e3/415281] process > quality_assessment (Control... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[e3/415281] process > quality_assessment (Control... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[-        ] process > alpha_diversity                [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (1)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[fc/ca7adc] process > alpha_diversity (Control_327)  [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (2)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[fc/ca7adc] process > alpha_diversity (Control_327)  [  0%] 0 of 1
+[-        ] process > log                            -
+
+executor >  local (2)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[5f/0182b3] process > profile_function (Control_327) [  0%] 0 of 1
+[fc/ca7adc] process > alpha_diversity (Control_327)  [100%] 1 of 1 ✔
+[-        ] process > log                            -
+
+executor >  local (2)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[5f/0182b3] process > profile_function (Control_327) [100%] 1 of 1 ✔
+[fc/ca7adc] process > alpha_diversity (Control_327)  [100%] 1 of 1 ✔
+[-        ] process > log                            -
+
+executor >  local (3)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[5f/0182b3] process > profile_function (Control_327) [100%] 1 of 1 ✔
+[fc/ca7adc] process > alpha_diversity (Control_327)  [100%] 1 of 1 ✔
+[02/82df6e] process > log (1)                        [  0%] 0 of 1
+
+executor >  local (3)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[5f/0182b3] process > profile_function (Control_327) [100%] 1 of 1 ✔
+[fc/ca7adc] process > alpha_diversity (Control_327)  [100%] 1 of 1 ✔
+[02/82df6e] process > log (1)                        [100%] 1 of 1 ✔
+
+executor >  local (3)
+[d0/37fb85] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[4f/71b622] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[85/ab473b] process > trim (Control_327)             [100%] 1 of 1, cached: 1 ✔
+[ac/3d2960] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[7d/4d4351] process > decontaminate (Control_327)    [100%] 1 of 1, cached: 1 ✔
+[3a/452597] process > quality_assessment (Control... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[d0/8d4d46] process > profile_taxa (Control_327)     [100%] 1 of 1, cached: 1 ✔
+[5f/0182b3] process > profile_function (Control_327) [100%] 1 of 1 ✔
+[fc/ca7adc] process > alpha_diversity (Control_327)  [100%] 1 of 1 ✔
+[02/82df6e] process > log (1)                        [100%] 1 of 1 ✔
+Completed at: 14-Dec-2021 06:32:35
+Duration    : 6d 20h 14m 27s
+CPU hours   : 9'790.3 (19.5% cached)
+Succeeded   : 3
+Cached      : 8
+
+
+== End of Job ==

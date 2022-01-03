@@ -1,0 +1,264 @@
+== This is the scripting step! ==
+N E X T F L O W  ~  version 21.04.1
+Launching `YAMP.nf` [pedantic_meninsky] - revision: 987380b166
+---------------------------------------------
+YET ANOTHER METAGENOMIC PIPELINE (YAMP) 
+---------------------------------------------
+
+Analysis introspection:
+
+
+Starting time              : Tue Dec 07 11:35:11 MST 2021
+Environment                : 
+Pipeline Name              : YAMP
+Pipeline Version           : 0.9.5.3
+Config Profile             : base,singularity
+Resumed                    : true
+Nextflow version           : 21.04.1 build 5556 (14-05-2021 15:20 UTC)
+Java version               : 1.8.0_91
+Java Virtual Machine       : Java HotSpot(TM) 64-Bit Server VM(25.91-b14)
+Operating system           : Linux amd64 v3.10.0-957.21.3.el7.x86_64
+User name                  : parsa96@colostate.edu
+Container Engine           : singularity
+Container                  : [:]
+BBmap                      : https://depot.galaxyproject.org/singularity/bbmap:38.87--h1296035_0
+FastQC                     : https://depot.galaxyproject.org/singularity/fastqc:0.11.9--0
+biobakery                  : biobakery/workflows:3.0.0.a.6.metaphlanv3.0.7
+qiime                      : qiime2/core:2020.8
+MultiQC                    : https://depot.galaxyproject.org/singularity/multiqc:1.9--py_1
+Running parameters         : 
+Reads                      : [/scratch/summit/parsa96@colostate.edu/YAMP/YAMP/Raw_Data/RCE_plus_DSS_313/RCE_plus_DSS_313_S16_R1_001.fastq.gz, /scratch/summit/parsa96@colostate.edu/YAMP/YAMP/Raw_Data/RCE_plus_DSS_313/RCE_plus_DSS_313_S16_R2_001.fastq.gz]
+Prefix                     : RCE_plus_DSS_313
+Running mode               : complete
+Layout                     : Paired-End
+Performing de-duplication  : false
+Synthetic contaminants     : 
+Artefacts                  : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/sequencing_artifacts.fa.gz
+Phix174ill                 : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/phix174_ill.ref.fa.gz
+Adapters                   : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/adapters.fa
+Trimming parameters        : 
+Input quality offset       : ASCII+33
+Min phred score            : 10
+Min length                 : 60
+kmer lenght                : 23
+Shorter kmer               : 11
+Max Hamming distance       : 1
+Decontamination parameters : 
+Contaminant (pan)genome    : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/hg19_main_mask_ribo_animal_allplant_allfungus.fa.gz
+Min alignment identity     : 0.95
+Max indel length           : 3
+Max alignment band         : 0.16
+MetaPhlAn parameters       : 
+MetaPhlAn database         : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/metaphlan_databases/
+Bowtie2 options            : very-sensitive
+HUMAnN parameters          : 
+Chocophlan database        : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/chocophlan
+Uniref database            : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/assets/data/uniref
+Folders                    : 
+Output dir                 : Satya
+Working dir                : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP/work
+Script dir                 : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP
+Lunching dir               : /gpfs/summit/scratch/parsa96@colostate.edu/YAMP/YAMP
+
+[-        ] process > get_software_versions -
+
+[-        ] process > get_software_versions -
+[-        ] process > dedup                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+
+[-        ] process > get_software_versions         -
+[-        ] process > dedup                         -
+[-        ] process > remove_synthetic_contaminants -
+[-        ] process > trim                          -
+[-        ] process > index_foreign_genome          -
+[-        ] process > decontaminate                 -
+[-        ] process > quality_assessment            -
+[-        ] process > merge_paired_end_cleaned      -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1
+[-        ] process > trim                           -
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[05/c63823] process > quality_assessment (RCE_plu... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[05/c63823] process > quality_assessment (RCE_plu... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[05/c63823] process > quality_assessment (RCE_plu... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > trim                           -
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[05/c63823] process > quality_assessment (RCE_plu... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[-        ] process > decontaminate                  -
+[05/c63823] process > quality_assessment (RCE_plu... [100%] 1 of 1, cached: 1
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2
+[-        ] process > merge_paired_end_cleaned       -
+[-        ] process > profile_taxa                   -
+[-        ] process > profile_function               -
+[-        ] process > alpha_diversity                -
+[-        ] process > log                            -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1 ✔
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8d/aa83ec] process > profile_taxa (RCE_plus_DSS_... [100%] 1 of 1, cached: 1
+[-        ] process > profile_function               -
+[4a/2076ae] process > alpha_diversity (RCE_plus_D... [100%] 1 of 1, cached: 1
+[-        ] process > log                            -
+
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1 ✔
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8d/aa83ec] process > profile_taxa (RCE_plus_DSS_... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > profile_function               [  0%] 0 of 1
+[4a/2076ae] process > alpha_diversity (RCE_plus_D... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > log                            -
+
+executor >  local (1)
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1 ✔
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8d/aa83ec] process > profile_taxa (RCE_plus_DSS_... [100%] 1 of 1, cached: 1 ✔
+[fc/1a592f] process > profile_function (RCE_plus_... [  0%] 0 of 1
+[4a/2076ae] process > alpha_diversity (RCE_plus_D... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > log                            -
+
+executor >  local (1)
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1 ✔
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8d/aa83ec] process > profile_taxa (RCE_plus_DSS_... [100%] 1 of 1, cached: 1 ✔
+[fc/1a592f] process > profile_function (RCE_plus_... [  0%] 0 of 1 ✔
+[4a/2076ae] process > alpha_diversity (RCE_plus_D... [100%] 1 of 1, cached: 1 ✔
+[-        ] process > log                            -
+
+executor >  local (2)
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1 ✔
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8d/aa83ec] process > profile_taxa (RCE_plus_DSS_... [100%] 1 of 1, cached: 1 ✔
+[fc/1a592f] process > profile_function (RCE_plus_... [100%] 1 of 1 ✔
+[4a/2076ae] process > alpha_diversity (RCE_plus_D... [100%] 1 of 1, cached: 1 ✔
+[fe/bae901] process > log (1)                        [  0%] 0 of 1
+
+executor >  local (2)
+[bc/b0d167] process > get_software_versions          [100%] 1 of 1, cached: 1 ✔
+[-        ] process > dedup                          -
+[bd/6c4eaf] process > remove_synthetic_contaminan... [100%] 1 of 1, cached: 1 ✔
+[d3/67a697] process > trim (RCE_plus_DSS_313)        [100%] 1 of 1, cached: 1 ✔
+[13/060694] process > index_foreign_genome (1)       [100%] 1 of 1, cached: 1 ✔
+[77/6c5519] process > decontaminate (RCE_plus_DSS... [100%] 1 of 1, cached: 1 ✔
+[88/7f6c59] process > quality_assessment (RCE_plu... [100%] 2 of 2, cached: 2 ✔
+[-        ] process > merge_paired_end_cleaned       -
+[8d/aa83ec] process > profile_taxa (RCE_plus_DSS_... [100%] 1 of 1, cached: 1 ✔
+[fc/1a592f] process > profile_function (RCE_plus_... [100%] 1 of 1 ✔
+[4a/2076ae] process > alpha_diversity (RCE_plus_D... [100%] 1 of 1, cached: 1 ✔
+[fe/bae901] process > log (1)                        [100%] 1 of 1 ✔
+Completed at: 12-Dec-2021 21:59:41
+Duration    : 5d 10h 24m 40s
+CPU hours   : 9'534.4 (34.4% cached)
+Succeeded   : 2
+Cached      : 9
+
+
+== End of Job ==
