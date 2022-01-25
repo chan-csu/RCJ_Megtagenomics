@@ -1,13 +1,12 @@
 ID	Timepoint_Weeks	RCE_treatment	DSS_treatment	Sample_pooled	Individual_ID	Sex	Treatment_group	DSS_only	RCEwDSS_only	RCE_only	Control_only	Treatment_pooled	Treatment_pooled_timepoint	Treatment_description	Notes
-Control_328	11	FALSE	FALSE	individual	328	M	Control	FALSE	FALSE	FALSE	TRUE	Control_individual	Control_individual_10wk	Control_10wk_328	Final sacrificial timepoint, 1 week additional PBS control treatment
-Control_330	11	FALSE	FALSE	individual	330	M	Control	FALSE	FALSE	FALSE	TRUE	Control_individual	Control_individual_10wk	Control_10wk_330	Final sacrificial timepoint, 1 week additional PBS control treatment
-Control_327	11	FALSE	FALSE	individual	327	M	Control	FALSE	FALSE	FALSE	TRUE	Control_individual	Control_individual_10wk	Control_10wk_327	Final sacrificial timepoint, 1 week additional PBS control treatment
-DSS_334	11	FALSE	TRUE	individual	334	M	DSS	TRUE	FALSE	FALSE	FALSE	DSS_individual	DSS_individual_10wk	DSS_10wk_334	Final sacrificial timepoint, 1 week additional DSS + PBS control treatment
-DSS_339	11	FALSE	TRUE	individual	339	M	DSS	TRUE	FALSE	FALSE	FALSE	DSS_individual	DSS_individual_10wk	DSS_10wk_339	Final sacrificial timepoint, 1 week additional DSS + PBS control treatment
-DSS_treatedp	11	FALSE	TRUE	individual	treatedp	M	DSS	TRUE	FALSE	FALSE	FALSE	DSS_individual	DSS_individual_10wk	DSS_10wk_treatedp	Final sacrificial timepoint, 1 week additional DSS + PBS control treatment
-RCE_322	11	TRUE	FALSE	individual	322	F	RCE	FALSE	FALSE	TRUE	FALSE	RCE_individual	RCE_individual_10wk	RCE_10wk_322	Final sacrificial timepoint, 1 week additional RCE treatment
-RCE_318	11	TRUE	FALSE	individual	318	F	RCE	FALSE	FALSE	TRUE	FALSE	RCE_individual	RCE_individual_10wk	RCE_10wk_318	Final sacrificial timepoint, 1 week additional RCE treatment
-RCE_319	11	TRUE	FALSE	individual	319	F	RCE	FALSE	FALSE	TRUE	FALSE	RCE_individual	RCE_individual_10wk	RCE_10wk_319	Final sacrificial timepoint, 1 week additional RCE treatment
-RCE_plus_DSS_305	11	TRUE	TRUE	individual	305	F	RCE+DSS	FALSE	TRUE	FALSE	FALSE	RCE+DSS_individual	RCE+DSS_individual_10wk	RCE+DSS_10wk_305	Final sacrificial timepoint, 1 week additional RCE+DSS treatment
-RCE_plus_DSS_313	11	TRUE	TRUE	individual	313	M	RCE+DSS	FALSE	TRUE	FALSE	FALSE	RCE+DSS_individual	RCE+DSS_individual_10wk	RCE+DSS_10wk_313	Final sacrificial timepoint, 1 week additional RCE+DSS treatment
-RCE_plus_DSS_301	11	TRUE	TRUE	individual	301	F	RCE+DSS	FALSE	TRUE	FALSE	FALSE	RCE+DSS_individual	RCE+DSS_individual_10wk	RCE+DSS_10wk_301	Final sacrificial timepoint, 1 week additional RCE+DSS  treatment
+Control_328	11	FALSE	FALSE	individual	328	M	Control	FALSE	FALSE	FALSE	TRUE	Control_individual	Control_individual_10wk	Control_10wk_328	"Final sacrificial timepoint, 1 week additional PBS control treatment"
+Control_330	11	FALSE	FALSE	individual	330	M	Control	FALSE	FALSE	FALSE	TRUE	Control_individual	Control_individual_10wk	Control_10wk_330	"Final sacrificial timepoint, 1 week additional PBS control treatment"
+Control_327	11	FALSE	FALSE	individual	327	M	Control	FALSE	FALSE	FALSE	TRUE	Control_individual	Control_individual_10wk	Control_10wk_327	"Final sacrificial timepoint, 1 week additional PBS control treatment"
+DSS_334	11	FALSE	TRUE	individual	334	M	DSS	TRUE	FALSE	FALSE	FALSE	DSS_individual	DSS_individual_10wk	DSS_10wk_334	"Final sacrificial timepoint, 1 week additional DSS + PBS control treatment"
+DSS_339	11	FALSE	TRUE	individual	339	M	DSS	TRUE	FALSE	FALSE	FALSE	DSS_individual	DSS_individual_10wk	DSS_10wk_339	"Final sacrificial timepoint, 1 week additional DSS + PBS control treatment"
+RCE_322	11	TRUE	FALSE	individual	322	F	RCE	FALSE	FALSE	TRUE	FALSE	RCE_individual	RCE_individual_10wk	RCE_10wk_322	"Final sacrificial timepoint, 1 week additional RCE treatment"
+RCE_318	11	TRUE	FALSE	individual	318	F	RCE	FALSE	FALSE	TRUE	FALSE	RCE_individual	RCE_individual_10wk	RCE_10wk_318	"Final sacrificial timepoint, 1 week additional RCE treatment"
+RCE_319	11	TRUE	FALSE	individual	319	F	RCE	FALSE	FALSE	TRUE	FALSE	RCE_individual	RCE_individual_10wk	RCE_10wk_319	"Final sacrificial timepoint, 1 week additional RCE treatment"
+RCE_plus_DSS_305	11	TRUE	TRUE	individual	305	F	RCE+DSS	FALSE	TRUE	FALSE	FALSE	RCE+DSS_individual	RCE+DSS_individual_10wk	RCE+DSS_10wk_305	"Final sacrificial timepoint, 1 week additional RCE+DSS treatment"
+RCE_plus_DSS_313	11	TRUE	TRUE	individual	313	M	RCE+DSS	FALSE	TRUE	FALSE	FALSE	RCE+DSS_individual	RCE+DSS_individual_10wk	RCE+DSS_10wk_313	"Final sacrificial timepoint, 1 week additional RCE+DSS treatment"
+RCE_plus_DSS_301	11	TRUE	TRUE	individual	301	F	RCE+DSS	FALSE	TRUE	FALSE	FALSE	RCE+DSS_individual	RCE+DSS_individual_10wk	RCE+DSS_10wk_301	"Final sacrificial timepoint, 1 week additional RCE+DSS  treatment"
