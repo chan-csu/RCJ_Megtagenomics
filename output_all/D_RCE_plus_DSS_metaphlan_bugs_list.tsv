@@ -1,6 +1,6 @@
 #mpa_v30_CHOCOPhlAn_201901
 #/usr/local/bin/metaphlan --input_type fastq --tmp_dir=. --biom D_RCE_plus_DSS.biom --bowtie2out=D_RCE_plus_DSS_bt2out.txt --bowtie2db metaphlan_databases --bt2_ps very-sensitive --add_viruses --sample_id D_RCE_plus_DSS --nproc 48 D_RCE_plus_DSS_QCd.fq.gz D_RCE_plus_DSS_metaphlan_bugs_list.tsv
-#SampleID	D_RCE_plus_DSS
+#SampleID D_RCE_plus_DSS
 #clade_name	NCBI_tax_id	relative_abundance	additional_species
 k__Bacteria	2	97.03959	
 k__Viruses	10239	2.96041	
