@@ -1,0 +1,318 @@
+,feature,metadata,value,coef,stderr,N,N.not.0,pval,qval
+0,PWY-2941: L-lysine biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.318166556847276,0.0118263924798033,12,3,2.5127744836781e-08,0.0001040748530152
+1,PWY-5097: L-lysine biosynthesis VI|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.333693092772814,0.0127733373882723,12,3,3.0809607168512e-08,0.0001040748530152
+3,PWY-2941: L-lysine biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.318166556847277,0.0167250446388851,12,3,2.7597769534229e-07,0.0004564130586949
+4,PWY-5097: L-lysine biosynthesis VI|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.333693092772814,0.018064226971262,12,3,3.37783495185749e-07,0.0004564130586949
+7,PWY-6700: queuosine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.789612285404802,0.046589219510843,12,6,6.10009612752926e-07,0.000625011129157
+8,PWY-2941: L-lysine biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.318166556847277,0.0213203322448463,12,3,1.45519938066424e-06,0.0010923696684186
+13,PWY-2942: L-lysine biosynthesis III|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.35250371370215,0.0256619688768882,12,3,2.555193598136e-06,0.0011202544002902
+14,PWY-5097: L-lysine biosynthesis VI|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.333693092772814,0.0230274614561086,12,3,1.77724423275292e-06,0.0011202544002902
+15,PWY-5686: UMP biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.356774668305634,0.0252972804486559,12,3,2.13690110846863e-06,0.0011202544002902
+16,PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.767887996503716,0.0567179459694734,12,6,2.81887578521814e-06,0.0011202544002902
+17,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.960310500860398,0.0765480865407764,12,6,4.71639653426918e-06,0.0013802794532351
+18,HISDEG-PWY: L-histidine degradation I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.848087525558205,0.0716121054934087,12,6,6.94634419922974e-06,0.0013802794532351
+19,HISTSYN-PWY: L-histidine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.88190284355743,0.0725307664881838,12,6,5.82037877406381e-06,0.0013802794532351
+20,PANTO-PWY: phosphopantothenate biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.7712343491528,0.0637115250240703,12,6,5.99675476056761e-06,0.0013802794532351
+21,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.916102317402587,0.0744337661188581,12,6,5.36402624843763e-06,0.0013802794532351
+22,PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.964793604993095,0.0790858311907413,12,6,5.6923794325743e-06,0.0013802794532351
+23,PWY-5686: UMP biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.833180669641264,0.0674465256064834,12,6,5.23228898005285e-06,0.0013802794532351
+24,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.809447794740174,0.0683466959635796,12,6,6.94451225441873e-06,0.0013802794532351
+25,PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.837175916470985,0.069938057794267,12,6,6.46511605758584e-06,0.0013802794532351
+26,PWY-6151: S-adenosyl-L-methionine cycle I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.703046738762436,0.0561942173676982,12,6,4.80384141640371e-06,0.0013802794532351
+27,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.891776197394998,0.0749313194597369,12,6,6.72076319396109e-06,0.0013802794532351
+28,PWY-6609: adenine and adenosine salvage III|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.790903010096799,0.066051718339992,12,6,6.4515505689268e-06,0.0013802794532351
+29,PWY-6700: queuosine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.789612285404803,0.0658871060926113,12,6,6.41434123413797e-06,0.0013802794532351
+30,PWY-6703: preQ0 biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.843915222749028,0.0656280779380352,12,6,3.99270679135425e-06,0.0013802794532351
+31,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.875023418135993,0.0692846202150371,12,6,4.50855583521122e-06,0.0013802794532351
+32,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.786640711673485,0.0626778177396195,12,6,4.70286938977016e-06,0.0013802794532351
+33,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.875023418135993,0.0692846202150371,12,6,4.50855583521122e-06,0.0013802794532351
+35,HSERMETANA-PWY: L-methionine biosynthesis III|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.893749045030597,0.0771471272302907,12,6,8.04961001072552e-06,0.0015106434786794
+36,PWY-3841: folate transformations II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.818031912440174,0.0714999210038355,12,6,8.75176907890008e-06,0.0015160756896679
+37,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.81715742470591,0.0712086252794805,12,6,8.57727373518254e-06,0.0015160756896679
+38,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.81715742470591,0.0712086252794805,12,6,8.57727373518254e-06,0.0015160756896679
+39,COA-PWY: coenzyme A biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.987234561016736,0.0868402799644624,12,6,9.1321899669826e-06,0.0015424268854233
+40,1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.845012754570783,0.0747697785412418,12,6,9.49913714437943e-06,0.0015652724523762
+41,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.841641714100665,0.0772534150516614,12,6,1.21293932113357e-05,0.0019510995365662
+42,UNINTEGRATED|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-1.66327899657487,0.155501908546175,12,4,1.37051301168738e-05,0.0021532990481302
+43,PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.842642210025008,0.0790724329168512,12,6,1.40469256455738e-05,0.0021568415832158
+44,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.812145740577929,0.0768113644962488,12,6,1.47981063930429e-05,0.0022216890398088
+45,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.711745403522255,0.0678951081207274,12,6,1.566335217285e-05,0.0023004697234733
+46,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.706016962457322,0.0687911456035775,12,6,1.80221604810356e-05,0.0025905897065931
+47,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.767992787112614,0.0763060666171454,12,6,2.05042222752308e-05,0.0026639716479126
+48,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.728095863714511,0.0717554035164778,12,6,1.94314568039632e-05,0.0026639716479126
+49,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.767992787112614,0.0763060666171454,12,6,2.05042222752308e-05,0.0026639716479126
+50,TRNA-CHARGING-PWY: tRNA charging|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.685396515318356,0.0680788493469916,12,6,2.0463268876101e-05,0.0026639716479126
+51,VALSYN-PWY: L-valine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.728095863714511,0.0717554035164778,12,6,1.94314568039632e-05,0.0026639716479126
+52,PWY-5686: UMP biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.356774668305634,0.035775757101645,12,3,2.17857026727639e-05,0.0027770605142866
+54,PWY-2942: L-lysine biosynthesis III|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.35250371370215,0.0362915044228916,12,3,2.59113105582051e-05,0.0031828511660224
+55,PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.767887996503716,0.0802112884199737,12,6,2.84981612061988e-05,0.0034380995912335
+56,PWY-6859: all-trans-farnesol biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.381208470921127,0.0410069556360162,12,3,3.45398526910352e-05,0.0040938814873795
+57,PWY-6703: preQ0 biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.843915222749029,0.0928121178924479,12,6,3.99038986746959e-05,0.0045693345668855
+58,TRNA-CHARGING-PWY: tRNA charging|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.676362032490602,0.0743809625067177,12,4,3.98899633336603e-05,0.0045693345668855
+59,PWY66-422: D-galactose degradation V (Leloir pathway)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.649497766748852,0.0723124495043658,12,4,4.32214935469173e-05,0.0048667401733828
+60,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.960310500860399,0.108255342159675,12,6,4.68593317506618e-05,0.0048704868508841
+61,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.875023418135993,0.0979832495719746,12,6,4.48670940037773e-05,0.0048704868508841
+62,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.786640711673485,0.0886398199073189,12,6,4.67297940396715e-05,0.0048704868508841
+63,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.875023418135993,0.0979832495719746,12,6,4.48670940037773e-05,0.0048704868508841
+64,PYRIDNUCSAL-PWY: NAD salvage pathway I|unclassified,RCEwDSS_only,TRUE,0.678987163777783,0.076462130328302,12,6,4.65432421543475e-05,0.0048704868508841
+65,PWY-6151: S-adenosyl-L-methionine cycle I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.703046738762436,0.0794706243283405,12,6,4.76963007430331e-05,0.0048823667851504
+66,ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis,DSS_only,TRUE,0.862373406436234,0.0980058964834919,12,12,4.93884200062672e-05,0.0049801218740647
+67,PWY-5686: UMP biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.833180669641264,0.0953837912476331,12,6,5.17870450115112e-05,0.0051451952367319
+68,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.916102317402587,0.105265241543796,12,6,5.30415903070653e-05,0.0051934635378917
+69,PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.964793604993095,0.111844255061496,12,6,5.61621384838626e-05,0.0054204486799568
+70,HISTSYN-PWY: L-histidine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.88190284355743,0.102573993656906,12,6,5.73761948040534e-05,0.0054596277760026
+71,PANTO-PWY: phosphopantothenate biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.7712343491528,0.0901017027685132,12,6,5.90469516607697e-05,0.0055098757191613
+72,PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-1.03088805148557,0.120830469410883,12,8,6.03048664163663e-05,0.0055098757191613
+73,PWY-6936: seleno-amino acid biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.721377717450366,0.0845627415753973,12,4,6.0350918179091e-05,0.0055098757191613
+74,PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.837175916470985,0.0989073498586858,12,6,6.34719267339044e-05,0.0056423202238718
+75,PWY-6609: adenine and adenosine salvage III|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.790903010096799,0.0934112358944644,12,6,6.33439951566182e-05,0.0056423202238718
+77,HISDEG-PWY: L-histidine degradation I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.848087525558205,0.101274810818871,12,6,6.80016030002192e-05,0.005671837405796
+78,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.809447794740174,0.0966568243750848,12,6,6.79843905849556e-05,0.005671837405796
+79,PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.732047654167641,0.0873352627476491,12,4,6.75892778050245e-05,0.005671837405796
+80,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.891776197394997,0.105968888226471,12,6,6.58803342204085e-05,0.005671837405796
+82,PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.72413300904867,0.0876966115118841,12,4,7.44297947100811e-05,0.0060584059404976
+83,HSERMETANA-PWY: L-methionine biosynthesis III|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.893749045030597,0.1091025136272,12,6,7.83266789660483e-05,0.0062997028939836
+84,PWY-3841: folate transformations II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.818031912440175,0.101116157992229,12,6,8.48579565376265e-05,0.0065283240726677
+85,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.81715742470591,0.100704203628185,12,6,8.32376048207951e-05,0.0065283240726677
+86,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.81715742470591,0.100704203628185,12,6,8.32376048207951e-05,0.0065283240726677
+87,PWY-6317: galactose degradation I (Leloir pathway)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.607345747585083,0.0750978199599554,12,4,8.50344165770819e-05,0.0065283240726677
+88,COA-PWY: coenzyme A biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.987234561016737,0.122810701686019,12,6,8.83844118148941e-05,0.0067092706317014
+89,1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.845012754570783,0.105740434868657,12,6,9.177824431084e-05,0.0068205797567657
+92,PYRIDNUCSAL-PWY: NAD salvage pathway I|unclassified,DSS_only,TRUE,0.430532838948084,0.0540668908591119,12,6,9.38889753373616e-05,0.0068205797567657
+93,PWY-5686: UMP biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.356774668305634,0.0456053208937108,12,3,0.000105109265812,0.0075544489343207
+94,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.841641714100665,0.109252827305697,12,6,0.0001159019364962,0.0082424577154589
+95,PWY-2942: L-lysine biosynthesis III|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.35250371370215,0.0462627723074908,12,3,0.0001242406303864,0.0086532958648512
+96,PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.438506759449168,0.0575252787279139,12,3,0.0001239051799465,0.0086532958648512
+97,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.446393561574965,0.0588593360357503,12,3,0.0001279683022599,0.0088219780619195
+98,UNINTEGRATED|g__Lactobacillus.s__Lactobacillus_intestinalis,RCEwDSS_only,TRUE,-1.66327899657487,0.219912908040902,12,4,0.0001302008106202,0.0088284152753901
+99,PENTOSE-P-PWY: pentose phosphate pathway|unclassified,RCEwDSS_only,TRUE,0.573347686715269,0.0760551574342266,12,12,0.000132928089342,0.0088284152753901
+100,PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.842642210025008,0.111825307040848,12,6,0.00013328868533,0.0088284152753901
+101,PWY-7234: inosine-5'-phosphate biosynthesis III|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.439362894694462,0.0582668030822335,12,3,0.0001327102148977,0.0088284152753901
+102,PWY-6901: superpathway of glucose and xylose degradation|unclassified,RCEwDSS_only,TRUE,0.556039807129368,0.0739051630325488,12,12,0.0001345974063871,0.0088285444422486
+103,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.812145740577929,0.108627673414978,12,6,0.0001400587478904,0.008926763214603
+104,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.566080516358099,0.0756190907300573,12,4,0.0001389379925236,0.008926763214603
+105,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.566080516358099,0.0756190907300573,12,4,0.0001389379925236,0.008926763214603
+106,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.711745403522255,0.0960181827231204,12,6,0.0001478300173927,0.0093340149299546
+107,ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.458870729756774,0.0629722677782895,12,3,0.0001646100235312,0.010187055474731
+109,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.706016962457322,0.0972853710837616,12,6,0.0001688795460583,0.010187055474731
+110,PWY-922: mevalonate pathway I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.636700719285391,0.0876717485429438,12,4,0.0001681302437971,0.010187055474731
+112,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.834703076915324,0.116061134429299,12,5,0.000178706404331,0.0105630844674358
+113,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.834703076915324,0.116061134429299,12,5,0.000178706404331,0.0105630844674358
+114,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.728095863714511,0.101477464826557,12,6,0.0001813673472798,0.0105630844674358
+115,VALSYN-PWY: L-valine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.728095863714511,0.101477464826557,12,6,0.0001813673472798,0.0105630844674358
+116,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.767992787112614,0.107913074301312,12,6,0.0001908318155429,0.0107438312150669
+117,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.12797174289242,0.158145615781837,12,12,0.0001882214803051,0.0107438312150669
+118,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.767992787112614,0.107913074301312,12,6,0.0001908318155429,0.0107438312150669
+119,TRNA-CHARGING-PWY: tRNA charging|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.685396515318356,0.0962780320572703,12,6,0.0001904711385856,0.0107438312150669
+120,PWY-5941: glycogen degradation II (eukaryotic),DSS_only,TRUE,0.767617449502958,0.108167955531369,12,12,0.0001942537695155,0.0108461030317929
+121,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.656652006119962,0.0927759130629138,12,4,0.0001974776826436,0.0109357313437726
+122,UNINTEGRATED|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,DSS_only,TRUE,-0.54238468765458,0.0771498221722724,12,6,0.0002059483062894,0.0112786543075916
+124,PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.608928760643339,0.0868592418089071,12,4,0.000209586959789,0.0113277560026777
+125,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.618522243733204,0.0890953184968463,12,4,0.0002227306015786,0.0119426027322645
+127,FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|unclassified,DSS_only,TRUE,1.33619959511658,0.194885245739678,12,11,0.000240607861775,0.0125605213611671
+128,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.581556086109545,0.0848157355791989,12,4,0.0002405296773225,0.0125605213611671
+129,PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.17334593415627,0.17125723875257,12,12,0.0002416915004369,0.0125605213611671
+130,"PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|unclassified",DSS_only,TRUE,1.32966866393868,0.194873617055932,12,11,0.0002479228392209,0.0127860053570758
+131,PWY-5505: L-glutamate and L-glutamine biosynthesis|unclassified,DSS_only,TRUE,-0.830373043735667,0.122055833907169,12,8,0.000252466184232,0.0129216783384201
+132,PWY-5989: stearate biosynthesis II (bacteria and plants)|unclassified,DSS_only,TRUE,1.30229228996031,0.192098840830837,12,11,0.0002580245841974,0.0129984873954143
+133,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.493468720901695,0.0729241715208736,12,3,0.0002609594246036,0.0129984873954143
+134,PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|unclassified,DSS_only,TRUE,1.31688949366972,0.194693127076682,12,11,0.0002616628605352,0.0129984873954143
+135,PWY0-862: (5Z)-dodec-5-enoate biosynthesis|unclassified,DSS_only,TRUE,1.32168577192313,0.195093506152641,12,11,0.0002591213134322,0.0129984873954143
+136,PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.832390986055634,0.123510713051143,12,4,0.0002675867986648,0.0131957402319684
+137,PWY-7664: oleate biosynthesis IV (anaerobic)|unclassified,DSS_only,TRUE,1.30771630382958,0.194345895086271,12,11,0.0002702000483028,0.0132280545386514
+138,FASYN-ELONG-PWY: fatty acid elongation -- saturated|unclassified,DSS_only,TRUE,1.29428585767065,0.193643784367267,12,11,0.0002815910636739,0.0135887801870079
+139,PWYG-321: mycolate biosynthesis|unclassified,DSS_only,TRUE,1.29673032906896,0.193832204740271,12,11,0.0002800107407587,0.0135887801870079
+140,PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.824476340936664,0.124021737374271,12,4,0.0002911050680157,0.0139482683653503
+141,BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I,DSS_only,TRUE,1.4215519142804,0.214502713459077,12,11,0.0002967203804442,0.0141172034526848
+142,PWY-3841: folate transformations II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.414689832203805,0.0627930516774511,12,3,0.0003031571716391,0.0143225863747847
+143,"PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)",DSS_only,TRUE,1.60571492668611,0.243426148655501,12,11,0.0003053519751488,0.0143260968340683
+144,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.03361440131951,0.157139906722593,12,12,0.0003106984342345,0.0144346039526941
+145,PWY-6859: all-trans-farnesol biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.381208470921127,0.0579925928120859,12,3,0.00031193785925,0.0144346039526941
+146,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-1.24510986884514,0.189997724582299,12,4,0.0003178500194847,0.0146081274261163
+147,PWY-6519: 8-amino-7-oxononanoate biosynthesis I,DSS_only,TRUE,1.45905281565537,0.22515260606143,12,11,0.0003403937333166,0.0155385139343726
+149,LACTOSECAT-PWY: lactose and galactose degradation I|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-1.036158210022,0.16086045342731,12,8,0.0003531474237185,0.0158004238055802
+150,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.04468724610962,0.162131430286435,12,12,0.0003524424132717,0.0158004238055802
+151,TRNA-CHARGING-PWY: tRNA charging|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.676362032490602,0.105190565959365,12,4,0.000357007777601,0.0158680562202138
+152,PWY66-422: D-galactose degradation V (Leloir pathway)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.649497766748852,0.102265246817494,12,4,0.0003848201062263,0.016992448612192
+153,PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III,DSS_only,TRUE,0.96452686277637,0.155195940138105,12,7,0.0004388459130683,0.0192522271992826
+154,PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.19564995120878,0.194172276973021,12,12,0.0004640379852221,0.019594003926006
+155,PWY-5989: stearate biosynthesis II (bacteria and plants),DSS_only,TRUE,1.55345463508702,0.252213780501161,12,11,0.0004633112563285,0.019594003926006
+156,PWY-6527: stachyose degradation|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.510466514803404,0.0826518284598276,12,4,0.000455750983253,0.019594003926006
+157,PWY-7664: oleate biosynthesis IV (anaerobic),DSS_only,TRUE,1.55147230938205,0.251597744419672,12,11,0.0004600588145342,0.019594003926006
+158,PWYG-321: mycolate biosynthesis,DSS_only,TRUE,1.54574869514063,0.250257325815701,12,11,0.000455514964879,0.019594003926006
+159,TRNA-CHARGING-PWY: tRNA charging|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.826877030322592,0.134092187118168,12,4,0.0004600577409131,0.019594003926006
+160,PWY0-862: (5Z)-dodec-5-enoate biosynthesis,DSS_only,TRUE,1.56236397051127,0.254663301454418,12,11,0.0004744578088119,0.0197866478786011
+161,PWY66-422: D-galactose degradation V (Leloir pathway)|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.800012764580843,0.130363122271196,12,4,0.0004736276663706,0.0197866478786011
+163,PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate),DSS_only,TRUE,1.56297995112188,0.255327873907635,12,11,0.0004808170527215,0.0198073171230882
+165,FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli),DSS_only,TRUE,1.5742367637588,0.259298182558486,12,11,0.000505270817518,0.0205639135129637
+166,GLUDEG-I-PWY: GABA shunt|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.612363661149809,0.101207536502046,12,4,0.0005156666495218,0.0206296069931425
+167,PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lactobacillus.s__Lactobacillus_johnsonii,RCEwDSS_only,TRUE,-1.03088805148557,0.170880088588778,12,8,0.0005248339206587,0.0206296069931425
+169,PWY-6936: seleno-amino acid biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.721377717450366,0.119589776007378,12,4,0.0005252060987004,0.0206296069931425
+172,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.783544509356583,0.130072596105463,12,5,0.0005295042568864,0.0206782124828021
+173,PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.01749550373395,0.169561272083357,12,12,0.0005418507151106,0.0207632325009403
+174,PWY-5941: glycogen degradation II (eukaryotic)|unclassified,DSS_only,TRUE,0.558910791948576,0.093201011119478,12,12,0.0005439745637457,0.0207632325009403
+178,TRNA-CHARGING-PWY: tRNA charging|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.06740391896498,0.178497174256212,12,12,0.0005532235855005,0.0208803270594501
+179,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.50257808124133,0.0846592902861991,12,3,0.0005778578406758,0.0216889309533687
+180,ARO-PWY: chorismate biosynthesis I|g__Helicobacter.s__Helicobacter_typhlonius,DSS_only,TRUE,-0.535915362177165,0.0905042789100796,12,5,0.0005866661188981,0.0218978801064953
+181,COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Helicobacter.s__Helicobacter_typhlonius,DSS_only,TRUE,-0.53497097106386,0.0909523346588656,12,5,0.0006105534990585,0.0225844891258153
+182,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Helicobacter.s__Helicobacter_typhlonius,DSS_only,TRUE,-0.52868253354741,0.0899127230639352,12,5,0.0006117468191273,0.0225844891258153
+183,PWY-4321: L-glutamate degradation IV|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.5834298544074,0.0994463706812975,12,4,0.0006199605739937,0.0227633349885982
+184,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.542063324104489,0.0925109585925245,12,3,0.000624583466774,0.0228091129812187
+186,P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle),DSS_only,TRUE,0.750854308991716,0.129454316664134,12,12,0.0006634396268522,0.023514887908197
+187,P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|unclassified,DSS_only,TRUE,0.744872009350931,0.128286699117559,12,12,0.0006592811405363,0.023514887908197
+188,PENTOSE-P-PWY: pentose phosphate pathway|unclassified,DSS_only,TRUE,0.313078887829456,0.0537791175659521,12,12,0.0006491003350033,0.023514887908197
+189,PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.19870066731613,0.206481009713279,12,12,0.000659905671626,0.023514887908197
+190,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.841722505293231,0.144698936399782,12,9,0.0006520896925084,0.023514887908197
+192,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.12664296163967,0.194905549247537,12,11,0.0006769350845047,0.023595340676881
+193,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.12664296163967,0.194905549247537,12,11,0.0006769350845047,0.023595340676881
+195,PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,1.01901912623786,0.176888025549303,12,9,0.0006907016603006,0.0238080633519943
+196,PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.16276783646354,0.202621512014357,12,12,0.0007066356800818,0.0242336581453452
+197,PWY-6317: galactose degradation I (Leloir pathway)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.607345747585083,0.106204355492022,12,4,0.0007213225830109,0.024488720456392
+198,PWY-6936: seleno-amino acid biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.871892715282356,0.152447650371953,12,4,0.0007208461438017,0.024488720456392
+201,PWY-7663: gondoate biosynthesis (anaerobic)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.543401309532419,0.0952247271685446,12,3,0.0007304163202741,0.0245722703688665
+204,RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.440172739676893,0.0776956097366826,12,3,0.0007622265701189,0.0251200132084085
+205,ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis,RCEwDSS_only,TRUE,0.783257306547025,0.138601267999488,12,12,0.0007735507231624,0.0253694596392496
+208,UNINTEGRATED|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.543843596720601,0.0965475592743809,12,3,0.0007883855284032,0.0254462052394459
+209,PWY-6700: queuosine biosynthesis|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCE_only,TRUE,-0.472845165123675,0.0839899099150958,12,6,0.0007909566459863,0.0254462052394459
+210,PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lactobacillus.s__Lactobacillus_johnsonii,RCE_only,TRUE,-1.21823382284085,0.217830226549661,12,8,0.0008223101890778,0.0260822893775103
+211,PWY-6317: galactose degradation I (Leloir pathway)|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.757860745417073,0.135384520270591,12,4,0.000817798212438,0.0260822893775103
+212,PWY-6901: superpathway of glucose and xylose degradation|unclassified,DSS_only,TRUE,0.292443200090546,0.0522588419450126,12,12,0.0008193293517094,0.0260822893775103
+213,UNINTEGRATED|g__Lactobacillus.s__Lactobacillus_intestinalis,RCE_only,TRUE,-1.56293566468688,0.280335052347874,12,4,0.0008373984627365,0.0261961361114175
+214,PWY-5941: glycogen degradation II (eukaryotic)|unclassified,RCEwDSS_only,TRUE,0.734831042934728,0.131806133952051,12,12,0.0008375318827806,0.0261961361114175
+215,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.572741146458612,0.102700286424239,12,3,0.0008360114105392,0.0261961361114175
+217,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.552680272566459,0.0995910904320002,12,3,0.0008603717582249,0.0266636311860895
+218,UNINTEGRATED|g__Dorea.s__Dorea_sp_5_2,DSS_only,TRUE,-0.749096708460839,0.135127330731534,12,7,0.0008656976591018,0.0267061798396915
+219,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.979344920821422,0.177050380492635,12,9,0.0008768943697186,0.0267254035792829
+221,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.19513753094168,0.216116929106602,12,8,0.0008781882170812,0.0267254035792829
+222,PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline),DSS_only,TRUE,0.453990292641844,0.0823098169933139,12,12,0.0008916693798464,0.0270139835436886
+224,PWY-5097: L-lysine biosynthesis VI|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-0.86984510308042,0.15930944460184,12,5,0.0009457712379876,0.0283983577059764
+226,UNINTEGRATED|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-0.833886288620939,0.155186483998589,12,9,0.001037657438746,0.0302173002421048
+227,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.21613429582656,0.226269436102977,12,12,0.0010362399270605,0.0302173002421048
+228,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_timonensis,RCEwDSS_only,TRUE,1.34699832502563,0.250387049316001,12,9,0.0010307425655731,0.0302173002421048
+229,PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.438506759449168,0.0813530293563084,12,3,0.0010191744637377,0.0302173002421048
+230,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.33351149741052,0.247962366751479,12,10,0.0010327234402749,0.0302173002421048
+231,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.33351149741052,0.247962366751479,12,10,0.0010327234402749,0.0302173002421048
+233,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.446393561574965,0.0832396712940336,12,3,0.0010496741224445,0.0302987725369451
+234,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.12075315975671,0.209288108021723,12,12,0.0010583940673059,0.0302987725369451
+235,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.12075315975671,0.209288108021723,12,12,0.0010583940673059,0.0302987725369451
+236,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.18608708772059,0.22169894007723,12,11,0.0010642125676069,0.030336793699378
+237,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.34438536389434,0.251615844303017,12,10,0.0010722627048111,0.0304378438390923
+238,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.842067735531178,0.157984497453253,12,9,0.0010873639152128,0.0306092942132424
+239,PWY-7234: inosine-5'-phosphate biosynthesis III|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.439362894694462,0.0824017031550171,12,3,0.0010851343277359,0.0306092942132424
+240,PWY-5030: L-histidine degradation III,DSS_only,TRUE,0.624588533477819,0.11748850828754,12,12,0.0011038455728595,0.0309443182167589
+241,TRNA-CHARGING-PWY: tRNA charging|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.876682875076049,0.165092741081599,12,9,0.0011109527713737,0.0310148633198385
+242,HISDEG-PWY: L-histidine degradation I|unclassified,DSS_only,TRUE,0.531584712137058,0.100362237112454,12,12,0.0011274483298169,0.0310746484640111
+243,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.566080516358099,0.106941543684769,12,4,0.0011314925284409,0.0310746484640111
+244,PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.33619495771011,0.252185536652751,12,10,0.0011252478577782,0.0310746484640111
+245,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.566080516358099,0.106941543684769,12,4,0.0011314925284409,0.0310746484640111
+246,PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.832390986055634,0.157445883996384,12,4,0.0011395452192002,0.0311690991939967
+247,PWY-5973: cis-vaccenate biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.04947839789657,0.198775284294632,12,12,0.0011483994611087,0.0312846240292375
+248,HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.715117293824277,0.135914837770027,12,9,0.0011714121990957,0.0313267148857381
+249,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.716595514190089,0.136324254515593,12,4,0.0011777657757515,0.0313267148857381
+250,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.16419831048,0.220747948051875,12,10,0.0011557261775096,0.0313267148857381
+251,PWY-6609: adenine and adenosine salvage III|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_A4,DSS_only,TRUE,-0.605588240966319,0.115158426752983,12,3,0.0011749569745963,0.0313267148857381
+252,PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.50601479737781,0.286252604588849,12,8,0.0011718861816715,0.0313267148857381
+253,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.716595514190089,0.136324254515593,12,4,0.0011777657757515,0.0313267148857381
+254,PWY-6527: stachyose degradation|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.506674275130972,0.0966030593863628,12,3,0.0011928361268117,0.0316031406774125
+255,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.593873304163159,0.113351637104945,12,3,0.0012002881728921,0.0316763550627327
+256,PWY-5104: L-isoleucine biosynthesis IV|unclassified,DSS_only,TRUE,-0.502064560101074,0.0960320730007931,12,12,0.0012149839748402,0.0317370523656898
+257,PWY-6151: S-adenosyl-L-methionine cycle I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.728027484164867,0.139286937779286,12,5,0.001216680959549,0.0317370523656898
+258,PWY-6609: adenine and adenosine salvage III|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.835993133932244,0.159753103302144,12,6,0.0012084312172236,0.0317370523656898
+259,PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_timonensis,RCEwDSS_only,TRUE,1.30602130157606,0.250157444753223,12,9,0.0012247338684416,0.0318242385199677
+260,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.28183275319614,0.246080457393222,12,10,0.0012406872257626,0.0318710376321396
+261,PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.824476340936663,0.158097314745272,12,4,0.001232553705477,0.0318710376321396
+262,VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.28183275319614,0.246080457393222,12,10,0.0012406872257626,0.0318710376321396
+264,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.35429291916968,0.260965526144248,12,10,0.0012674950917969,0.0323139503403022
+265,ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.458870729756774,0.0890562351454473,12,3,0.0013202147729723,0.0325524489277419
+266,FASYN-ELONG-PWY: fatty acid elongation -- saturated,DSS_only,TRUE,1.54101396286502,0.298725790089312,12,11,0.0013114498078,0.0325524489277419
+267,GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|unclassified,RCEwDSS_only,TRUE,0.521859617733076,0.101262733511569,12,12,0.0013188646128737,0.0325524489277419
+268,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.29167753994556,0.250383943023255,12,10,0.0013112127607288,0.0325524489277419
+269,PWY-6859: all-trans-farnesol biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.381208470921127,0.0739263405981666,12,3,0.0013143868528974,0.0325524489277419
+270,PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.3108854990424,0.253959405459587,12,10,0.0013068701879599,0.0325524489277419
+271,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.29167753994556,0.250383943023255,12,10,0.0013112127607288,0.0325524489277419
+272,RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.19131443715497,0.230100867893893,12,12,0.0012846230842212,0.0325524489277419
+273,TRNA-CHARGING-PWY: tRNA charging|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.577637704517411,0.112075957911659,12,3,0.0013181896960201,0.0325524489277419
+274,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Oscillibacter.s__Oscillibacter_sp_1_3,DSS_only,TRUE,-0.519929321795275,0.101301285051288,12,6,0.0013498978304047,0.0329238618852516
+275,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Oscillibacter.s__Oscillibacter_sp_1_3,DSS_only,TRUE,-0.519929321795275,0.101301285051288,12,6,0.0013498978304047,0.0329238618852516
+276,PWY-922: mevalonate pathway I|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.63670071928539,0.123986575826395,12,4,0.0013458144928408,0.0329238618852516
+277,TRNA-CHARGING-PWY: tRNA charging|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.27713693792629,0.249913771534364,12,8,0.0013835544665957,0.0336233596270534
+278,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.441386939560277,0.0867379990180117,12,4,0.0014171639066636,0.0339982302299904
+279,HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.41511133635883,0.277975608840039,12,9,0.0014139513051479,0.0339982302299904
+280,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.834703076915325,0.164135230374322,12,5,0.0014223503556088,0.0339982302299904
+281,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.834703076915325,0.164135230374322,12,5,0.0014223503556088,0.0339982302299904
+282,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.758291588490171,0.149235721042674,12,5,0.0014291736804791,0.0339982302299904
+283,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.758291588490171,0.149235721042674,12,5,0.0014291736804791,0.0339982302299904
+284,COA-PWY: coenzyme A biosynthesis I|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.618376917423068,0.122164822743484,12,3,0.0014603719813545,0.0343772582091672
+285,PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.44161292850878,0.284640717709634,12,8,0.0014557262162713,0.0343772582091672
+286,PWY-7663: gondoate biosynthesis (anaerobic)|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.06491414313113,0.210248662951153,12,12,0.0014551627383206,0.0343772582091672
+287,UNINTEGRATED|g__Clostridium.s__Clostridium_sp_ASF502,RCE_only,TRUE,-1.34306219184795,0.268391514066649,12,6,0.0015580402369225,0.0364225600022435
+288,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.656652006119962,0.13120495451512,12,4,0.0015568745414886,0.0364225600022435
+289,PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.37139223296704,0.274393123234939,12,10,0.0015689669853444,0.0365515205275406
+291,COA-PWY: coenzyme A biosynthesis I|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.589751085893534,0.118265690482434,12,3,0.0015889902853194,0.0366444511109909
+292,PWY-5088: L-glutamate degradation VIII (to propanoate),RCEwDSS_only,TRUE,0.534390305117151,0.107296458790578,12,4,0.0016000759440115,0.0366444511109909
+294,PWY-922: mevalonate pathway I|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.787215717117381,0.158052492390585,12,4,0.0015996776609559,0.0366444511109909
+295,PWY-6168: flavin biosynthesis III (fungi)|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.35786978004942,0.272852690372222,12,8,0.0016072033338387,0.0366833301466709
+296,UNINTEGRATED|g__Muribaculaceae_unclassified.s__Muribaculaceae_bacterium_DSM_103720,RCEwDSS_only,TRUE,-0.54238468765458,0.1091063248507,12,6,0.0016170591869349,0.036784013019975
+297,COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.21014825066264,0.243634249042333,12,11,0.0016245502504946,0.0368304076924228
+298,PWY-5100: pyruvate fermentation to acetate and lactate II|g__Anaerotruncus.s__Anaerotruncus_sp_G3_2012,DSS_only,TRUE,-0.644567882797886,0.129873476343863,12,3,0.0016319635959831,0.0368747359681007
+299,PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.608928760643339,0.122837517783601,12,4,0.001642817357048,0.0369962468807222
+300,P164-PWY: purine nucleobases degradation I (anaerobic),DSS_only,TRUE,0.604228884844698,0.12232595010525,12,12,0.0016760935351164,0.0373719073374473
+301,PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.776706500274838,0.157223769325329,12,9,0.0016748856889341,0.0373719073374473
+302,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.14602027975243,0.232007465532387,12,11,0.001675932199047,0.0373719073374473
+303,PWY-5941: glycogen degradation II (eukaryotic),RCEwDSS_only,TRUE,0.75297246138571,0.152972589726633,12,12,0.0017092213350968,0.0379851951970871
+304,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.618522243733204,0.12599980776219,12,4,0.0017354034564986,0.038369338992067
+305,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.606791881705611,0.123641544863169,12,3,0.0017378652651824,0.038369338992067
+306,PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.464641827249,0.298786314252938,12,8,0.0017491896295262,0.0384935672217564
+307,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.38653542818866,0.283043140589368,12,9,0.0017557828920537,0.038513211749076
+308,PWY-2942: L-lysine biosynthesis III|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-0.878705209426729,0.179519102808672,12,6,0.0017636103046493,0.0385597126802943
+309,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.3315079908157,0.272713267621438,12,10,0.0017886109857575,0.0388548418642389
+310,PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate),DSS_only,TRUE,-0.799727193283381,0.163740365056293,12,6,0.0017851990787319,0.0388548418642389
+311,PWY-922: mevalonate pathway I,DSS_only,TRUE,-0.80410103524718,0.165030253526714,12,6,0.0018091834874632,0.0391757809016075
+312,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.581556086109545,0.119947563558753,12,4,0.0018596905829641,0.0398859351698601
+313,PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_timonensis,RCE_only,TRUE,1.54702604843011,0.318889423066799,12,9,0.0018535682126467,0.0398859351698601
+314,PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.75944375847533,0.15658772504497,12,4,0.0018564115260881,0.0398859351698601
+315,PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.25576369204656,0.259245047563005,12,8,0.0018693094889232,0.0399653636302708
+316,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.807167003951952,0.167254155838163,12,4,0.0019082507407522,0.0406692176798805
+318,PWY-5505: L-glutamate and L-glutamine biosynthesis|unclassified,RCEwDSS_only,TRUE,-0.830373043735667,0.172613015678277,12,8,0.0019423739490448,0.0409611772299869
+319,PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.15879770021423,0.240578985161193,12,11,0.0019287677140291,0.0409611772299869
+321,PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.35326710156101,0.282121016366928,12,10,0.0019736561237622,0.0414100023979422
+322,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.732071083941535,0.152903741798499,12,4,0.0019942237656752,0.0414663986265788
+323,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.493468720901695,0.103130352389641,12,3,0.0020008949011641,0.0414663986265788
+324,PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnospiraceae_unclassified.s__Lachnospiraceae_bacterium_A4,DSS_only,TRUE,-0.657853774115208,0.137418087822186,12,3,0.0019954868398296,0.0414663986265788
+325,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_reuteri,RCE_only,TRUE,-0.769037241565195,0.160618869622087,12,4,0.0019938255236464,0.0414663986265788
+326,HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.37322165040358,0.287286577486607,12,10,0.0020123448556428,0.041474541694714
+327,PWY-5505: L-glutamate and L-glutamine biosynthesis|unclassified,RCE_only,TRUE,-1.05108763089181,0.220039283810908,12,8,0.0020197045911132,0.041474541694714
+328,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.645131572471011,0.135026416109147,12,3,0.0020173688649198,0.041474541694714
+329,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.628365327423328,0.131955004888923,12,3,0.0020547693844006,0.0415629400030263
+330,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.634910755771866,0.133284586937864,12,3,0.0020509462001892,0.0415629400030263
+331,PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-0.796562446910803,0.167016959360161,12,6,0.002037251902206,0.0415629400030263
+332,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.640957033254389,0.134352665013429,12,3,0.002034055144674,0.0415629400030263
+333,PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.20800128229399,0.253654617759633,12,12,0.002053769230503,0.0415629400030263
+334,PWY-3841: folate transformations II|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.665262189130236,0.139800635868097,12,3,0.0020626935286985,0.0415986790444394
+336,HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_timonensis,RCEwDSS_only,TRUE,0.912302781219868,0.192212606902111,12,9,0.0020924388317134,0.0418145016592375
+337,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_timonensis,RCEwDSS_only,TRUE,0.970784378543693,0.204635198317534,12,9,0.0020981521702903,0.0418145016592375
+338,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-0.852638654338404,0.179550673183194,12,6,0.0020865765184427,0.0418145016592375
+340,PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_timonensis,RCE_only,TRUE,1.23478712796989,0.260859717347259,12,9,0.0021238060818453,0.0422000490546007
+341,UNINTEGRATED|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,0.899690580758437,0.19027310304022,12,12,0.0021364872791095,0.0422049943206542
+342,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.939372467399284,0.199025434039352,12,9,0.0021578974170046,0.0423801015967544
+343,VALSYN-PWY: L-valine biosynthesis|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.939372467399284,0.199025434039352,12,9,0.0021578974170046,0.0423801015967544
+344,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_timonensis,RCEwDSS_only,TRUE,1.04996024618988,0.223423818943089,12,9,0.0022100430729871,0.0432784086988433
+347,PWY-1042: glycolysis IV (plant cytosol)|g__Lactobacillus.s__Lactobacillus_intestinalis,DSS_only,TRUE,-0.604725863853276,0.129009857006392,12,3,0.0022412130648193,0.0435104467411484
+348,PWY-3841: folate transformations II|g__Lactobacillus.s__Lactobacillus_reuteri,RCEwDSS_only,TRUE,-0.414689832203804,0.088802785305046,12,3,0.0022880728705504,0.0442928948809126
+349,PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.2396626379302,0.265998281885192,12,10,0.0023133764468452,0.0446547750711043
+350,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lactobacillus.s__Lactobacillus_intestinalis,RCEwDSS_only,TRUE,-1.24510986884514,0.268697358924315,12,4,0.0023867603732298,0.0459106050827678
+351,SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.07330974224139,0.23171603330689,12,12,0.0023920267893922,0.0459106050827678
+352,BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bacteroides.s__Bacteroides_caecimuris,DSS_only,TRUE,1.0658938338533,0.23074857284338,12,12,0.0024281866916951,0.0459872316021292
+353,COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.27199344500964,0.275686907011831,12,10,0.0024436672802197,0.0459872316021292
+354,PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_timonensis,DSS_only,TRUE,0.732971920498227,0.158854221683788,12,6,0.0024430586908156,0.0459872316021292
+355,PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.34734469214836,0.291862424863328,12,10,0.0024365671361687,0.0459872316021292
+356,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactobacillus.s__Lactobacillus_johnsonii,DSS_only,TRUE,-0.852175659942016,0.184187306072824,12,6,0.0024070941363805,0.0459872316021292
+357,UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri,DSS_only,TRUE,-0.757363895350858,0.163846175584755,12,5,0.0024192563713294,0.0459872316021292
+359,PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|unclassified,DSS_only,TRUE,0.338608090023592,0.0734846482691379,12,12,0.0024611469114942,0.0461875237057089
+360,PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.31275014595033,0.286090604534586,12,9,0.0025180020214006,0.0471236056969054
+361,ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Bacteroides.s__Bacteroides_sartorii,DSS_only,TRUE,1.20268726069079,0.262617154192707,12,10,0.0025448976625777,0.0474953828960642
+362,PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_timonensis,RCE_only,TRUE,1.3009055327635,0.284810603148057,12,9,0.002581434129064,0.0480445426334889
+363,HISDEG-PWY: L-histidine degradation I,DSS_only,TRUE,0.415551753676447,0.0911536068351764,12,12,0.002608609494957,0.048284289720356
+364,PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|unclassified,DSS_only,TRUE,0.336029843759969,0.0737084582243019,12,12,0.0026083078524944,0.048284289720356
+365,LACTOSECAT-PWY: lactose and galactose degradation I|g__Lactobacillus.s__Lactobacillus_johnsonii,RCEwDSS_only,TRUE,-1.036158210022,0.227491034886387,12,8,0.0026213237725079,0.0483870584892453
+366,PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_timonensis,RCEwDSS_only,TRUE,1.09035804064545,0.240251093522605,12,9,0.0026727566309806,0.0492020267000145
