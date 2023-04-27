@@ -32,7 +32,7 @@ Sig_taxa=read.csv("megan/rel_freqs.csv", header= TRUE,sep=",",row.names = 1)
 
 Metadata=read.csv("../output_all/metadata.csv",sep = ",")
 Metadata=Metadata[-c(7,8,9,10,17),]
-
+Metadata$Sample_ID <- gsub('RCE', 'RCJ', Metadata$Sample_ID)
 Table=Sig_taxa[,1:ncol(Sig_taxa)]
 m_com = as.matrix(Table)
 nmds = metaMDS(t(m_com), distance = "bray")
